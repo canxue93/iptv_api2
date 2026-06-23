@@ -1,57 +1,71 @@
 name: Daily Update
 
+# 赋予actions推送代码权限
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: '55 0 * * *'  # 每3天凌晨00点55分执行任务（上海时区的UTC时间）
-  workflow_dispatch:  # 允许手动触发工作流
+    # UTC 00:55 = 上海 08:55 每日执行
+    - cron: '55 0 * * *'
+    # 如需每3天凌晨上海0点执行，改用下面注释这条，替换上面cron
+    # - cron: '55 16 */3 * *'
+  workflow_dispatch:  # 手动触发
 
 jobs:
   run_script:
     runs-on: ubuntu-latest
 
-    # 强制所有 JavaScript Actions 使用 Node.js 24 运行（规避 Node 20 弃用问题）
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-      TZ: Asia/Shanghai  # 设置时区为上海
+      TZ: Asia/Shanghai
+      # 可选：脚本内读取时区
+      TIME_ZONE: Asia/Shanghai
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4   # 升级到 v4（仍基于 Node 20，但配合环境变量可使用 Node 24）
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 拉取完整历史，rebase更稳定
+          fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v5   # 升级到 v5
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: "pip"  # 内置pip缓存，替代单独cache步骤，简化配置
 
-    - name: Cache dependencies
-      uses: actions/cache@v4   # 保持 v4
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg -qq
 
-    - name: Install system dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y ffmpeg
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests aiohttp
 
-    - name: Install Python dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests aiohttp
+      - name: Run Python script
+        run: python main.py
+        # 脚本异常直接终止工作流，不执行后续提交
+        if: always()
 
-    - name: Run Python script
-      run: |
-        python main.py
-
-    - name: Commit and push if changed
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add -A
-        if ! git diff --staged --quiet; then
-          git commit -m "Auto-update live files"
-          git pull --rebase
-          git push
-        fi
+      - name: Check file changes & auto commit push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          # 检测是否有变更
+          if ! git diff --staged --quiet; then
+            echo "Detected file changes, commit & push..."
+            git commit -m "Auto-update live files [${{ github.run_id }}]"
+            # 拉取远端最新代码，冲突则终止不强制推送
+            if git pull --rebase --autostash; then
+              git push
+            else
+              echo "Merge conflict occurred, skip push"
+              exit 1
+            fi
+          else
+            echo "No file changes, skip commit"
+          fi
