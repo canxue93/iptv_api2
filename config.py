@@ -74,7 +74,11 @@ source_urls = [
     "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
     "https://raw.githubusercontent.com/iptvjs/iptv/main/txt/o_s_cn_cctv.txt",
 
-
+    "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u",
+    "https://gitee.com/yuweirong6684/tv-live-streaming-source/raw/master/AD.txt",
+    "https://ghfast.top/https://raw.githubusercontent.com/devsolux/iptv-playlist/refs/heads/master/playlist/ad.json",
+    "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt",
+    "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt",
 
 
 
