@@ -1,40 +1,40 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-08-16" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-08-16
+#EXTINF:-1 tvg-id="1" tvg-name="2026-08-17" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-08-17
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="METART" tvg-logo="./pic/logosMETART.png" group-title="CR频道",METART
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6233/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6233/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="DIGITALDESIRE" tvg-logo="./pic/logosDIGITALDESIRE.png" group-title="CR频道",DIGITALDESIRE
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6195/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6195/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Playboy PLUS" tvg-logo="./pic/logosPlayboy PLUS.png" group-title="CR频道",Playboy PLUS
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6242/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6242/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="FEMJOY" tvg-logo="./pic/logosFEMJOY.png" group-title="CR频道",FEMJOY
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6212/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6212/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Nubiles" tvg-logo="./pic/logosNubiles.png" group-title="CR频道",Nubiles
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6238/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6238/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Lesbea" tvg-logo="./pic/logosLesbea.png" group-title="CR频道",Lesbea
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6227/manifest.m3u8$IPV4•线路1
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6227/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Lesbea" tvg-logo="./pic/logosLesbea.png" group-title="CR频道",Lesbea
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6227/index.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Lesbea" tvg-logo="./pic/logosLesbea.png" group-title="CR频道",Lesbea
 http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/6227/index.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="SEXART" tvg-logo="./pic/logosSEXART.png" group-title="CR频道",SEXART
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6165/manifest.m3u8$IPV4•线路1
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6165/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="SEXART" tvg-logo="./pic/logosSEXART.png" group-title="CR频道",SEXART
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6253/manifest.m3u8$IPV4•线路2
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6253/manifest.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="Playboy HD" tvg-logo="./pic/logosPlayboy HD.png" group-title="CR频道",Playboy HD
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6280/manifest.m3u8$IPV4•线路1
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6280/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Playboy HD" tvg-logo="./pic/logosPlayboy HD.png" group-title="CR频道",Playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Playboy HD" tvg-logo="./pic/logosPlayboy HD.png" group-title="CR频道",Playboy HD
 http://200.4.96.59:8829/play/a09q/index.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="clubsweethearts" tvg-logo="./pic/logosclubsweethearts.png" group-title="CR频道",clubsweethearts
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6186/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6186/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EVILANGEL" tvg-logo="./pic/logosEVILANGEL.png" group-title="CR频道",EVILANGEL
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6199/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6199/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Dorcel TV" tvg-logo="./pic/logosDorcel TV.png" group-title="CR频道",Dorcel TV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Dorcel TV" tvg-logo="./pic/logosDorcel TV.png" group-title="CR频道",Dorcel TV
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/245/manifest.m3u8$IPV4•线路2
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/245/manifest.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Dorcel TV" tvg-logo="./pic/logosDorcel TV.png" group-title="CR频道",Dorcel TV
 http://162.19.227.109/701/manifest.m3u8?token=Cdb904d80a$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="Dorcel TV" tvg-logo="./pic/logosDorcel TV.png" group-title="CR频道",Dorcel TV
@@ -46,39 +46,39 @@ http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12131/index.m3u8$IPV4•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="Dorcel TV" tvg-logo="./pic/logosDorcel TV.png" group-title="CR频道",Dorcel TV
 http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/12131/index.m3u8$IPV4•线路7
 #EXTINF:-1 tvg-id="1" tvg-name="DORCELCLUB" tvg-logo="./pic/logosDORCELCLUB.png" group-title="CR频道",DORCELCLUB
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6197/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6197/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="ADULTTIME" tvg-logo="./pic/logosADULTTIME.png" group-title="CR频道",ADULTTIME
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6166/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6166/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Private" tvg-logo="./pic/logosPrivate.png" group-title="CR频道",Private
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6245/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6245/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="babestv" tvg-logo="./pic/logosbabestv.png" group-title="CR频道",babestv
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6172/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6172/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="TINY4K" tvg-logo="./pic/logosTINY4K.png" group-title="CR频道",TINY4K
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6258/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6258/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="TUSHY" tvg-logo="./pic/logosTUSHY.png" group-title="CR频道",TUSHY
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6261/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6261/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="VIXEN" tvg-logo="./pic/logosVIXEN.png" group-title="CR频道",VIXEN
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6265/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6265/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Desire" tvg-logo="./pic/logosDesire.png" group-title="CR频道",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Leo TV" tvg-logo="./pic/logosLeo TV.png" group-title="CR频道",Leo TV
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Leo TV" tvg-logo="./pic/logosLeo TV.png" group-title="CR频道",Leo TV
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6272/manifest.m3u8$IPV4•线路2
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6272/manifest.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="DDF network" tvg-logo="./pic/logosDDF network.png" group-title="CR频道",DDF network
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6217/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6217/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="JapanHDV" tvg-logo="./pic/logosJapanHDV.png" group-title="CR频道",JapanHDV
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6225/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6225/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Brazzers" tvg-logo="./pic/logosBrazzers.png" group-title="CR频道",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Brazzers" tvg-logo="./pic/logosBrazzers.png" group-title="CR频道",Brazzers
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6222/manifest.m3u8$IPV4•线路2
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6222/manifest.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Brazzers" tvg-logo="./pic/logosBrazzers.png" group-title="CR频道",Brazzers
 http://xionggroup.uk:2347/livehttpplay?channel_id=18212$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="Eroxxx" tvg-logo="./pic/logosEroxxx.png" group-title="CR频道",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Eroxxx" tvg-logo="./pic/logosEroxxx.png" group-title="CR频道",Eroxxx
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/5015/manifest.m3u8$IPV4•线路2
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/5015/manifest.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Eroxxx" tvg-logo="./pic/logosEroxxx.png" group-title="CR频道",Eroxxx
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/54982/hls/pl.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="Eroxxx" tvg-logo="./pic/logosEroxxx.png" group-title="CR频道",Eroxxx
@@ -86,31 +86,31 @@ http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/54982/hlsx/pl.m3u8$I
 #EXTINF:-1 tvg-id="1" tvg-name="Extasy" tvg-logo="./pic/logosExtasy.png" group-title="CR频道",Extasy
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Extasy" tvg-logo="./pic/logosExtasy.png" group-title="CR频道",Extasy
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/5014/manifest.m3u8$IPV4•线路2
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/5014/manifest.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Extasy" tvg-logo="./pic/logosExtasy.png" group-title="CR频道",Extasy
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6201/manifest.m3u8$IPV4•线路3
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6201/manifest.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="EroxHD" tvg-logo="./pic/logosEroxHD.png" group-title="CR频道",EroxHD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="EroxHD" tvg-logo="./pic/logosEroxHD.png" group-title="CR频道",EroxHD
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6296/manifest.m3u8$IPV4•线路2
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6296/manifest.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="eXXXotica HD" tvg-logo="./pic/logoseXXXotica HD.png" group-title="CR频道",eXXXotica HD
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/9346/manifest.m3u8$IPV4•线路1
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/9346/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="eXXXotica HD" tvg-logo="./pic/logoseXXXotica HD.png" group-title="CR频道",eXXXotica HD
 http://31.148.48.15/O-la-la/playlist.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="Russkay HD" tvg-logo="./pic/logosRusskay HD.png" group-title="CR频道",Russkay HD
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/147/manifest.m3u8$IPV4•线路1
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/147/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Russkay HD" tvg-logo="./pic/logosRusskay HD.png" group-title="CR频道",Russkay HD
 http://31.148.48.15/Russkaya_Noch/playlist.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="PENTHOUSE Reality" tvg-logo="./pic/logosPENTHOUSE Reality.png" group-title="CR频道",PENTHOUSE Reality
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/5013/manifest.m3u8$IPV4
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/5013/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="PENTHOUSE GOLD" tvg-logo="./pic/logosPENTHOUSE GOLD.png" group-title="CR频道",PENTHOUSE GOLD
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/5011/manifest.m3u8$IPV4•线路1
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/5011/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="PENTHOUSE GOLD" tvg-logo="./pic/logosPENTHOUSE GOLD.png" group-title="CR频道",PENTHOUSE GOLD
 http://kstv.us:8080/haw5UJfF68/1729172230/47297$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="PENTHOUSE PASSION" tvg-logo="./pic/logosPENTHOUSE PASSION.png" group-title="CR频道",PENTHOUSE PASSION
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/5010/manifest.m3u8$IPV4
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/5010/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="XXL" tvg-logo="./pic/logosXXL.png" group-title="CR频道",XXL
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/5009/manifest.m3u8$IPV4•线路1
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/5009/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="XXL" tvg-logo="./pic/logosXXL.png" group-title="CR频道",XXL
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/26472/hls/pl.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="XXL" tvg-logo="./pic/logosXXL.png" group-title="CR频道",XXL
@@ -122,7 +122,7 @@ http://kstv.us:8080/haw5UJfF68/1729172230/47197$IPV4•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="XXL" tvg-logo="./pic/logosXXL.png" group-title="CR频道",XXL
 http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/5009/index.m3u8$IPV4•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="Hustler HD" tvg-logo="./pic/logosHustler HD.png" group-title="CR频道",Hustler HD
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/244/manifest.m3u8$IPV4•线路1
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/244/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Hustler HD" tvg-logo="./pic/logosHustler HD.png" group-title="CR频道",Hustler HD
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/93665/hls/pl.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Hustler HD" tvg-logo="./pic/logosHustler HD.png" group-title="CR频道",Hustler HD
@@ -132,45 +132,45 @@ http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/244/index.m3u8$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="Hustler HD" tvg-logo="./pic/logosHustler HD.png" group-title="CR频道",Hustler HD
 http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/244/index.m3u8$IPV4•线路5
 #EXTINF:-1 tvg-id="1" tvg-name="Hustler TV" tvg-logo="./pic/logosHustler TV.png" group-title="CR频道",Hustler TV
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/1064/manifest.m3u8$IPV4•线路1
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/1064/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Hustler TV" tvg-logo="./pic/logosHustler TV.png" group-title="CR频道",Hustler TV
 http://live.admuspeh.my/8128/index.m3u8?token=4gPHp5ZVYqDAR4oz$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="RedLight HD" tvg-logo="./pic/logosRedLight HD.png" group-title="CR频道",RedLight HD
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/242/manifest.m3u8$IPV4
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/242/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="GONZO" tvg-logo="./pic/logosGONZO.png" group-title="CR频道",GONZO
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/20090/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20090/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Defloration" tvg-logo="./pic/logosDefloration.png" group-title="CR频道",Defloration
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/20089/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20089/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BANG" tvg-logo="./pic/logosBANG.png" group-title="CR频道",BANG
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6174/manifest.m3u8$IPV4•线路1
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6174/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="BANG" tvg-logo="./pic/logosBANG.png" group-title="CR频道",BANG
 http://162.19.243.184/713/index.m3u8?token=M4f082ab4c$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="CHERRYPIMPS" tvg-logo="./pic/logosCHERRYPIMPS.png" group-title="CR频道",CHERRYPIMPS
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6185/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6185/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CUMLOUDER" tvg-logo="./pic/logosCUMLOUDER.png" group-title="CR频道",CUMLOUDER
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6189/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6189/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CUM4K" tvg-logo="./pic/logosCUM4K.png" group-title="CR频道",CUM4K
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6190/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6190/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="DAUGHTERSWAP" tvg-logo="./pic/logosDAUGHTERSWAP.png" group-title="CR频道",DAUGHTERSWAP
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6191/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6191/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="DIGITALPLAYGROUND" tvg-logo="./pic/logosDIGITALPLAYGROUND.png" group-title="CR频道",DIGITALPLAYGROUND
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6196/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6196/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="FakeTaxi" tvg-logo="./pic/logosFakeTaxi.png" group-title="CR频道",FakeTaxi
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6202/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6202/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="AD001" tvg-logo="./pic/logosAD001.png" group-title="CR频道",AD001
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6211/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6211/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MYLF" tvg-logo="./pic/logosMYLF.png" group-title="CR频道",MYLF
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6216/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6216/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="HitZefrer" tvg-logo="./pic/logosHitZefrer.png" group-title="CR频道",HitZefrer
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6220/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6220/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="LittleAsians" tvg-logo="./pic/logosLittleAsians.png" group-title="CR频道",LittleAsians
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6230/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6230/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BangBros" tvg-logo="./pic/logosBangBros.png" group-title="CR频道",BangBros
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6235/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6235/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="NaughtyAmerica" tvg-logo="./pic/logosNaughtyAmerica.png" group-title="CR频道",NaughtyAmerica
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6237/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6237/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Public Agent" tvg-logo="./pic/logosPublic Agent.png" group-title="CR频道",Public Agent
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6246/manifest.m3u8$IPV4•线路1
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6246/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Public Agent" tvg-logo="./pic/logosPublic Agent.png" group-title="CR频道",Public Agent
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965389$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Public Agent" tvg-logo="./pic/logosPublic Agent.png" group-title="CR频道",Public Agent
@@ -178,21 +178,21 @@ http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6246/index.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="Public Agent" tvg-logo="./pic/logosPublic Agent.png" group-title="CR频道",Public Agent
 http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/6246/index.m3u8$IPV4•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="RealityKings" tvg-logo="./pic/logosRealityKings.png" group-title="CR频道",RealityKings
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6247/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6247/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="HOT HD" tvg-logo="./pic/logosHOT HD.png" group-title="CR频道",HOT HD
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6275/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6275/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="HotPleasure" tvg-logo="./pic/logosHotPleasure.png" group-title="CR频道",HotPleasure
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6277/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6277/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SEXY HOT" tvg-logo="./pic/logosSEXY HOT.png" group-title="CR频道",SEXY HOT
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6282/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6282/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="VENUS" tvg-logo="./pic/logosVENUS.png" group-title="CR频道",VENUS
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6284/manifest.m3u8$IPV4•线路1
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6284/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="VENUS" tvg-logo="./pic/logosVENUS.png" group-title="CR频道",VENUS
 http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/75927$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="XYPLUS" tvg-logo="./pic/logosXYPLUS.png" group-title="CR频道",XYPLUS
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6288/manifest.m3u8$IPV4
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6288/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SuperOne" tvg-logo="./pic/logosSuperOne.png" group-title="CR频道",SuperOne
-http://d029dcec.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/6298/manifest.m3u8$IPV4•线路1
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6298/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="SuperOne" tvg-logo="./pic/logosSuperOne.png" group-title="CR频道",SuperOne
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12121/index.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="SuperOne" tvg-logo="./pic/logosSuperOne.png" group-title="CR频道",SuperOne
@@ -210,7 +210,7 @@ http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60044$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="karups" tvg-logo="./pic/logoskarups.png" group-title="CR频道",karups
 http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60043$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Vivid Red HD" tvg-logo="./pic/logosVivid Red HD.png" group-title="CR频道",Vivid Red HD
-http://88b9da48.kazmazpaz.ru/iptv/MVTMCC4UTAZVDT/2162/manifest.m3u8$IPV4•线路1
+http://88b9da48.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/2162/manifest.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="Vivid Red HD" tvg-logo="./pic/logosVivid Red HD.png" group-title="CR频道",Vivid Red HD
 http://rr3.tvdosug.net/~2011503cbe66b502e11dd75bce30c2fe6d6/91663/hls/pl.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Vivid Red HD" tvg-logo="./pic/logosVivid Red HD.png" group-title="CR频道",Vivid Red HD
