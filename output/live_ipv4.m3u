@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-08-27" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-08-27
+#EXTINF:-1 tvg-id="1" tvg-name="2026-08-28" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-08-28
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="METART" tvg-logo="./pic/logosMETART.png" group-title="CR频道",METART
 http://d029dcec.kazmazpaz.ru/iptv/RL8MVW8UX8NNXK/6233/manifest.m3u8$IPV4•线路1
@@ -2734,9 +2734,7 @@ http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6217/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Три Ангела" tvg-logo="./pic/logosТри Ангела.png" group-title="频道3",Три Ангела
 http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6259/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="angel" tvg-logo="./pic/logosangel.png" group-title="频道3",angel
-https://live.ottiptv.cc/yy/1382828770$IPV4•线路1
-#EXTINF:-1 tvg-id="2" tvg-name="angel" tvg-logo="./pic/logosangel.png" group-title="频道3",angel
-http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/6259/manifest.m3u8$IPV4•线路2
+http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/6259/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="playboy plus" tvg-logo="./pic/logosplayboy plus.png" group-title="频道3",playboy plus
 http://rhsbjv7k.tvclub.xyz/iptv/QR4G6UT6U7R2EG/6242/index.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="playboy plus" tvg-logo="./pic/logosplayboy plus.png" group-title="频道3",playboy plus
@@ -3182,29 +3180,31 @@ https://zo392.cdnedge.live/file/avple-images/hls/6193bcf11ab2cd467ae5359d/playli
 #EXTINF:-1 tvg-id="12" tvg-name="5" tvg-logo="./pic/logos5.png" group-title="欧美影片",5
 https://v45172.cdn-d1.com/a98567b9b4cfb4e139bf00ae9e050c18192168fa/i.yaeby.com/contents/videos/23000/23406/23406.mp4$IPV4•线路12
 #EXTINF:-1 tvg-id="1" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路1
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路2
+https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路3
+https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路4
+https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路5
+https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路6
+https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路7
+https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路8
+https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路8
 #EXTINF:-1 tvg-id="9" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路9
+https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路9
 #EXTINF:-1 tvg-id="10" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路10
+https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路10
 #EXTINF:-1 tvg-id="11" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路11
+https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路11
 #EXTINF:-1 tvg-id="12" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf30697ab1a3fe8fe0bc25/i.yaeby.com/contents/videos/21000/21911/21911.mp4$IPV4•线路12
+https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路12
+#EXTINF:-1 tvg-id="13" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
+https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf30697ab1a3fe8fe0bc25/i.yaeby.com/contents/videos/21000/21911/21911.mp4$IPV4•线路13
 #EXTINF:-1 tvg-id="1" tvg-name="7" tvg-logo="./pic/logos7.png" group-title="欧美影片",7
 https://1xp60.cdnedge.live/file/avple-images/hls/6193ba5e1ab2cd467ae53598/playlist.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="7" tvg-logo="./pic/logos7.png" group-title="欧美影片",7
