@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-08-28,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-08-29,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/RL8MVW8UX8NNXK/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6233/manifest.m3u8$IPV4•线路2
