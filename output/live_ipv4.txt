@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-09-12,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-09-13,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6233/manifest.m3u8$IPV4•线路2
@@ -191,9 +191,8 @@ NaughtyAmerica,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6237/manifest.m3
 Public Agent,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6246/manifest.m3u8$IPV4•线路1
 Public Agent,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6246/manifest.m3u8$IPV4•线路2
 Public Agent,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6246/manifest.m3u8$IPV4•线路3
-Public Agent,http://conecdg.me:80/Andrielly.Silva/Br131221/3965389$IPV4•线路4
-Public Agent,http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6246/index.m3u8$IPV4•线路5
-Public Agent,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/6246/index.m3u8$IPV4•线路6
+Public Agent,http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6246/index.m3u8$IPV4•线路4
+Public Agent,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/6246/index.m3u8$IPV4•线路5
 RealityKings,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6247/manifest.m3u8$IPV4•线路1
 RealityKings,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6247/manifest.m3u8$IPV4•线路2
 RealityKings,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6247/manifest.m3u8$IPV4•线路3
@@ -343,16 +342,14 @@ Playboy Plus,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/6242/index.m3u8$IPV4
 Playboy Plus,http://v5yxxgnc.ottclub.xyz/iptv/SKRMAACV4QDM4F/6242/index.m3u8$IPV4•线路3
 Playboy,http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/527/index.m3u8$IPV4•线路1
 Playboy,http://rhsbjv7k.tvclub.xyz/iptv/TVGXTE68LZGQWS/527/index.m3u8$IPV4•线路2
-Fake Taxi,http://conecdg.me:80/Andrielly.Silva/Br131221/3965388$IPV4•线路1
-Fake Taxi,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58036$IPV4•线路2
+Fake Taxi,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58036$IPV4
 EVIL ANGEL,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58037$IPV4
 BRAZZERS EXXTRA,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58038$IPV4
 BRASILEIRINHAS 1,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58039$IPV4
 ADULT 2,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58043$IPV4
 ADULT 3,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58045$IPV4•线路1
 ADULT 3,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/75965$IPV4•线路2
-BANGBROS,http://conecdg.me:80/Andrielly.Silva/Br131221/3935089$IPV4•线路1
-BANGBROS,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58048$IPV4•线路2
+BANGBROS,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58048$IPV4
 RKPrime,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58049$IPV4
 LGBT-MAN,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58050$IPV4
 FAKE HOSTEL,http://main.movistar-balancer.store:8080/AN229277/6TMzJY4P4wxRWInVsLGsMeXlkjoZTb/58054$IPV4
@@ -932,8 +929,7 @@ FAP TV COMPILATION,http://kstv.us:8080/haw5UJfF68/1729172230/47194$IPV4
 FAP TV 4,http://kstv.us:8080/haw5UJfF68/1729172230/47196$IPV4
 ALBA XXX 1,http://kstv.us:8080/haw5UJfF68/1729172230/47198$IPV4
 PREMIUM PORN,http://kstv.us:8080/haw5UJfF68/1729172230/47200$IPV4
-DORCEL,http://conecdg.me:80/Andrielly.Silva/Br131221/3935067$IPV4•线路1
-DORCEL,http://kstv.us:8080/haw5UJfF68/1729172230/47202$IPV4•线路2
+DORCEL,http://kstv.us:8080/haw5UJfF68/1729172230/47202$IPV4
 ALBA XXX 5,http://kstv.us:8080/haw5UJfF68/1729172230/47204$IPV4
 ALBA XXX 3,http://kstv.us:8080/haw5UJfF68/1729172230/47206$IPV4
 SUPER ONE XXX,http://kstv.us:8080/haw5UJfF68/1729172230/47207$IPV4
