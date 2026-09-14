@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-09-14,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-09-15,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6233/manifest.m3u8$IPV4•线路2
@@ -1369,7 +1369,8 @@ LEGAL,http://168.119.255.170/716/mono.m3u8?token=M4f082ab4c$IPV4
 DDF,http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6217/index.m3u8$IPV4
 频道3,#genre#
 Три Ангела,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6259/manifest.m3u8$IPV4
-angel,http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/6259/manifest.m3u8$IPV4
+angel,https://live.ottiptv.cc/yy/1382828770$IPV4•线路1
+angel,http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/6259/manifest.m3u8$IPV4•线路2
 playboy plus,http://rhsbjv7k.tvclub.xyz/iptv/QR4G6UT6U7R2EG/6242/index.m3u8$IPV4•线路1
 playboy plus,http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/6242/index.m3u8$IPV4•线路2
 kion18+,http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18075/index.m3u8$IPV4
