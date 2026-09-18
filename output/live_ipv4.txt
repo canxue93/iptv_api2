@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-09-18,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-09-19,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6233/manifest.m3u8$IPV4•线路2
@@ -1607,8 +1607,7 @@ heyzo1031,https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
 6,https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路9
 6,https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路10
 6,https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路11
-6,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$IPV4•线路12
-6,https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf30697ab1a3fe8fe0bc25/i.yaeby.com/contents/videos/21000/21911/21911.mp4$IPV4•线路13
+6,https://v215178.cdn-d1.com/a98567b9b4cfb4e139bf30697ab1a3fe8fe0bc25/i.yaeby.com/contents/videos/21000/21911/21911.mp4$IPV4•线路12
 7,https://1xp60.cdnedge.live/file/avple-images/hls/6193ba5e1ab2cd467ae53598/playlist.m3u8$IPV4•线路1
 7,https://10j99.cdnedge.live/file/avple-images/hls/6186240126bdd144b598cbd2/playlist.m3u8$IPV4•线路2
 7,https://47b61.cdnedge.live/file/avple-images/hls/609ce87dee36da5bb9b5e4bd/playlist.m3u8$IPV4•线路3
