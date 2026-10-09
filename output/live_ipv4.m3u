@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-10-09" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-10-09
+#EXTINF:-1 tvg-id="1" tvg-name="2026-10-10" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-10-10
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="METART" tvg-logo="./pic/logosMETART.png" group-title="CR频道",METART
 http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
@@ -360,9 +360,7 @@ http://ottlinks.club/hls/7jic59vkp2tz/1705.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Tee" tvg-logo="./pic/logosTee.png" group-title="俄罗斯",Tee
 http://live.redtraffic.xyz/teen.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EV" tvg-logo="./pic/logosEV.png" group-title="俄罗斯",EV
-mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a$IPV4•线路1
-#EXTINF:-1 tvg-id="2" tvg-name="EV" tvg-logo="./pic/logosEV.png" group-title="俄罗斯",EV
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=57a85bc4cc02c74c14b671a196abebab;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app$IPV4•线路2
+mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="HUS" tvg-logo="./pic/logosHUS.png" group-title="俄罗斯",HUS
 http://xionggroup.uk:2347/livehttpplay?channel_id=18244$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="D" tvg-logo="./pic/logosD.png" group-title="俄罗斯",D
@@ -380,29 +378,29 @@ http://ott.server-iptv.live/704/manifest.m3u8?token=S40EA67AEC$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EROX HD" tvg-logo="./pic/logosEROX HD.png" group-title="俄罗斯",EROX HD
 mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="PLAYBOY TV" tvg-logo="./pic/logosPLAYBOY TV.png" group-title="俄罗斯",PLAYBOY TV
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/269917.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269917.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SIRINA 2 FHD" tvg-logo="./pic/logosSIRINA 2 FHD.png" group-title="俄罗斯",SIRINA 2 FHD
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SIRINA 3 FHD" tvg-logo="./pic/logosSIRINA 3 FHD.png" group-title="俄罗斯",SIRINA 3 FHD
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1298269.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1298269.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SUGARBABES FHD" tvg-logo="./pic/logosSUGARBABES FHD.png" group-title="俄罗斯",SUGARBABES FHD
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1382478.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1382478.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="GOLDEN KEYHOLE HD" tvg-logo="./pic/logosGOLDEN KEYHOLE HD.png" group-title="俄罗斯",GOLDEN KEYHOLE HD
 http://108.181.23.41:80/livehttpplay?channel_id=23623$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="LEO TV" tvg-logo="./pic/logosLEO TV.png" group-title="俄罗斯",LEO TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="LUXURE TV HD" tvg-logo="./pic/logosLUXURE TV HD.png" group-title="俄罗斯",LUXURE TV HD
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1088233.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1088233.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="COUGARS TV HD" tvg-logo="./pic/logosCOUGARS TV HD.png" group-title="俄罗斯",COUGARS TV HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150347$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EXEGIRLS TV HD" tvg-logo="./pic/logosEXEGIRLS TV HD.png" group-title="俄罗斯",EXEGIRLS TV HD
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1403615.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1403615.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="PULSION TV HD" tvg-logo="./pic/logosPULSION TV HD.png" group-title="俄罗斯",PULSION TV HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45461$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="APHRODITE TV HD" tvg-logo="./pic/logosAPHRODITE TV HD.png" group-title="俄罗斯",APHRODITE TV HD
 http://108.181.23.41:80/livehttpplay?channel_id=23544$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="FRANCESEX TV HD" tvg-logo="./pic/logosFRANCESEX TV HD.png" group-title="俄罗斯",FRANCESEX TV HD
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/169717.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/169717.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="VENUSEXO TV HD" tvg-logo="./pic/logosVENUSEXO TV HD.png" group-title="俄罗斯",VENUSEXO TV HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1128930$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="DUSK TV" tvg-logo="./pic/logosDUSK TV.png" group-title="俄罗斯",DUSK TV
@@ -420,7 +418,7 @@ http://live.mycamtv.com/milf.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MATURE 2" tvg-logo="./pic/logosMATURE 2.png" group-title="俄罗斯",MATURE 2
 http://xionggroup.uk:2347/livehttpplay?channel_id=18209$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BIG TITS 3" tvg-logo="./pic/logosBIG TITS 3.png" group-title="俄罗斯",BIG TITS 3
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052430.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052430.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SEXTREME" tvg-logo="./pic/logosSEXTREME.png" group-title="俄罗斯",SEXTREME
 http://148.113.160.49:14175/$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BABES TV" tvg-logo="./pic/logosBABES TV.png" group-title="俄罗斯",BABES TV
@@ -448,15 +446,15 @@ https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BLUETV ASIAN HD" tvg-logo="./pic/logosBLUETV ASIAN HD.png" group-title="俄罗斯",BLUETV ASIAN HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45467$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BLUETV GANGBANG HD" tvg-logo="./pic/logosBLUETV GANGBANG HD.png" group-title="俄罗斯",BLUETV GANGBANG HD
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/269827.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269827.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="FUXTV LUXURE HD" tvg-logo="./pic/logosFUXTV LUXURE HD.png" group-title="俄罗斯",FUXTV LUXURE HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45460$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="FUXTV DEEPER HD" tvg-logo="./pic/logosFUXTV DEEPER HD.png" group-title="俄罗斯",FUXTV DEEPER HD
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/521134.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/521134.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SUTRATV HEGRE HD" tvg-logo="./pic/logosSUTRATV HEGRE HD.png" group-title="俄罗斯",SUTRATV HEGRE HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91878$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="REDLIGHTTV NEW SENSATIONS HD" tvg-logo="./pic/logosREDLIGHTTV NEW SENSATIONS HD.png" group-title="俄罗斯",REDLIGHTTV NEW SENSATIONS HD
-http://sanlix.xyz/live/WJ74AC4SRKQQYR7/pahruAQRs8/332166.ts$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/332166.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EROXTV SPORTS  HD" tvg-logo="./pic/logosEROXTV SPORTS  HD.png" group-title="俄罗斯",EROXTV SPORTS  HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45570$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SEXBOX 2" tvg-logo="./pic/logosSEXBOX 2.png" group-title="俄罗斯",SEXBOX 2
@@ -548,7 +546,7 @@ https://toonixhls.wns.live/hls/stream.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="DORCEL TV" tvg-logo="./pic/logosDORCEL TV.png" group-title="俄罗斯",DORCEL TV
 https://live.eltv.az/live/eltv/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="NUART" tvg-logo="./pic/logosNUART.png" group-title="俄罗斯",NUART
-https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8$IPV4
+https://live.ottiptv.cc/huya/18527383$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SCT" tvg-logo="./pic/logosSCT.png" group-title="俄罗斯",SCT
 http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="OH AH TV" tvg-logo="./pic/logosOH AH TV.png" group-title="俄罗斯",OH AH TV
@@ -617,8 +615,6 @@ https://smart.946985.filegear-sg.me/smart.php?id=Axn$IPV4
 http://31.43.191.125:8080/restream/restream/34666$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Xpanded TV" tvg-logo="./pic/logosXpanded TV.png" group-title="俄罗斯",Xpanded TV
 https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="Fast Boyz" tvg-logo="./pic/logosFast Boyz.png" group-title="俄罗斯",Fast Boyz
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e2d10a83ffe6300681795257bc06f205;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="HOT" tvg-logo="./pic/logosHOT.png" group-title="俄罗斯",HOT
 http://183.220.20.17:4321/rtp/239.10.0.151:5140$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="XY Max HD" tvg-logo="./pic/logosXY Max HD.png" group-title="俄罗斯",XY Max HD
@@ -678,6 +674,8 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 #EXTINF:-1 tvg-id="1" tvg-name="20152015" tvg-logo="./pic/logos20152015.png" group-title="俄罗斯",20152015
 https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="20212021" tvg-logo="./pic/logos20212021.png" group-title="俄罗斯",20212021
+https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="23202320" tvg-logo="./pic/logos23202320.png" group-title="俄罗斯",23202320
 https://play92332.com/20220322/Sflw8j5Z/1802kb/hls/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="31513151" tvg-logo="./pic/logos31513151.png" group-title="俄罗斯",31513151
 https://v.imgstream2.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8$IPV4
