@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-10,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-11,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6233/manifest.m3u8$IPV4•线路2
@@ -164,6 +164,7 @@ Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/2162/manifest.m3u8
 松視2台,http://live.redtraffic.xyz/fetish.m3u8$IPV4•线路3
 松視2台,http://cdn.adultiptv.net/fetish.m3u8$IPV4•线路4
 松視2台,http://live.redtraffic.xyz/fetish.m3u8fluxuslust.m3u8$IPV4•线路5
+极限,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/cx_ddeea82ff347ac7ca7de44b6aad6a.flv$IPV4
 香蕉,rtmp://112.29.121.74/live/易發TV-xjt$IPV4
 惊艳,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8$IPV4
 潘多拉,http://live.redtraffic.xyz:80/pornstar.m3u8$IPV4•线路1
@@ -312,7 +313,7 @@ Vixen HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn$IPV4
 Wicked,http://31.43.191.125:8080/restream/restream/34666$IPV4
 Xpanded TV,https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8$IPV4
 HOT,http://183.220.20.17:4321/rtp/239.10.0.151:5140$IPV4
-XY Max HD,https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8$IPV4
+XY Mix HD,http://live.redtraffic.xyz/milf.m3u8$IPV4
 Erotic 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693848$IPV4
 VF Cartoon 18+,https://server.zillarbarta.com/zbcatun/video.m3u8$IPV4
 DP Fanatics,https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8$IPV4
@@ -321,6 +322,7 @@ XY Plus 6,https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8$IPV4
 Meiden Van Holland,https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8$IPV4
 Venus HD,http://103.250.28.74:8000/play/a04x/index.m3u8$IPV4
 Passie XXX TV,https://clshls.wns.live/hls/stream.m3u8$IPV4
+Devils Film HD,http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=$IPV4
 Dane Jones,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8c334lftubd6erba3g&ratio=720p&line=0$IPV4
 Dancing Bear,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7qaabrc77ucr5apups0&ratio=720p&line=0$IPV4
 Family Swap,https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8$IPV4
@@ -340,7 +342,8 @@ Anal Only,http://cdn.adultiptv.net/anal.m3u8$IPV4•线路2
 Anal Only,http://live.mycamtv.com/anal.m3u8$IPV4•线路3
 Alex Legend,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568$IPV4
 20152015,https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8$IPV4
-20212021,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv$IPV4
+20212021,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv$IPV4•线路1
+20212021,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$IPV4•线路2
 23202320,https://play92332.com/20220322/Sflw8j5Z/1802kb/hls/index.m3u8$IPV4
 31513151,https://v.imgstream2.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8$IPV4
 31613161,https://v.imgstream2.com/f/pzohakwafr/pzohakwafr.m3u8$IPV4
@@ -361,7 +364,6 @@ Prokop TV XXX,https://arkhls.wns.live/hls/stream.m3u8$IPV4
 Blowjob,http://live.mycamtv.com/blowjob.m3u8$IPV4•线路1
 Blowjob,http://live.redtraffic.xyz/blowjob.m3u8$IPV4•线路2
 Latina HD,http://live.redtraffic.xyz/latina.m3u8$IPV4
-Milf HD,http://live.redtraffic.xyz/milf.m3u8$IPV4
 POV HD,http://live.redtraffic.xyz/pov.m3u8$IPV4
 BABES,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$IPV4
 supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4•线路1
