@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-11,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-12,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6233/manifest.m3u8$IPV4•线路2
@@ -225,7 +225,7 @@ SLTV EROTIC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&e
 FAP TV 3,https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8$IPV4
 4K PORN 2 UHD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45580$IPV4
 PERV FAMILY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45443$IPV4
-MOFOS 1,https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8$IPV4
+MOFOS 1,http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8$IPV4
 BLUETV ASIAN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45467$IPV4
 BLUETV GANGBANG HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269827.ts$IPV4
 FUXTV LUXURE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45460$IPV4
@@ -312,6 +312,7 @@ Trans Angels,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/22129
 Vixen HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn$IPV4
 Wicked,http://31.43.191.125:8080/restream/restream/34666$IPV4
 Xpanded TV,https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8$IPV4
+Fast Boyz,https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8$IPV4
 HOT,http://183.220.20.17:4321/rtp/239.10.0.151:5140$IPV4
 XY Mix HD,http://live.redtraffic.xyz/milf.m3u8$IPV4
 Erotic 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693848$IPV4
@@ -330,6 +331,7 @@ Family Strokes,https://jmp2.uk/plu-686d61503484d6073283059d.m3u8$IPV4
 BBC Pie,https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd$IPV4
 Bang POV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693897$IPV4
 LATINA TV,https://live.mtna.tv/hls/mtna/mtna.m3u8$IPV4
+MILF TV,https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8$IPV4
 PORNSTAR TV,http://31.43.191.125:8080/restream/restream/34603$IPV4
 POV TV,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0$IPV4
 RUSSIAN TV,http://88.212.15.19/live/via_tv/index.m3u8$IPV4
