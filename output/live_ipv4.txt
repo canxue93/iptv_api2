@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-12,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-13,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6233/manifest.m3u8$IPV4•线路2
@@ -29,7 +29,7 @@ Dorcel TV,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8$IPV4•线�
 Dorcel TV,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/245/manifest.m3u8$IPV4•线路2
 Dorcel TV,http://88b9da48.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/245/manifest.m3u8$IPV4•线路3
 Dorcel TV,http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8$IPV4•线路4
-Dorcel TV,http://ott.server-iptv.live/701/manifest.m3u8?token=S40EA67AEC$IPV4•线路5
+Dorcel TV,http://ott.server-iptv.live/701/manifest.m3u8?token=S76379DB41$IPV4•线路5
 DORCELCLUB,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6197/manifest.m3u8$IPV4•线路1
 DORCELCLUB,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6197/manifest.m3u8$IPV4•线路2
 ADULTTIME,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6166/manifest.m3u8$IPV4•线路1
@@ -44,7 +44,7 @@ TUSHY,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6261/manifest.m3u8$IPV4�
 TUSHY,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6261/manifest.m3u8$IPV4•线路2
 VIXEN,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6265/manifest.m3u8$IPV4•线路1
 VIXEN,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6265/manifest.m3u8$IPV4•线路2
-VIXEN,http://ott.server-iptv.live/708/manifest.m3u8?token=S40EA67AEC$IPV4•线路3
+VIXEN,http://ott.server-iptv.live/708/manifest.m3u8?token=S76379DB41$IPV4•线路3
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8$IPV4•线路1
 Desire,http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8$IPV4•线路2
 Leo TV,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8$IPV4•线路1
@@ -58,7 +58,7 @@ Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8$IPV4•线�
 Brazzers,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6222/manifest.m3u8$IPV4•线路2
 Brazzers,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6222/manifest.m3u8$IPV4•线路3
 Brazzers,http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8$IPV4•线路4
-Brazzers,http://ott.server-iptv.live/705/manifest.m3u8?token=S40EA67AEC$IPV4•线路5
+Brazzers,http://ott.server-iptv.live/705/manifest.m3u8?token=S76379DB41$IPV4•线路5
 Brazzers,http://xionggroup.uk:2347/livehttpplay?channel_id=18212$IPV4•线路6
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8$IPV4•线路1
 Eroxxx,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5015/manifest.m3u8$IPV4•线路2
@@ -84,7 +84,7 @@ PENTHOUSE Reality,http://88b9da48.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/5013/manifest
 PENTHOUSE GOLD,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5011/manifest.m3u8$IPV4•线路1
 PENTHOUSE GOLD,http://88b9da48.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/5011/manifest.m3u8$IPV4•线路2
 PENTHOUSE GOLD,http://185.98.209.11:81/penthouse1/index.m3u8?token=test$IPV4•线路3
-PENTHOUSE GOLD,http://ott.server-iptv.live/707/manifest.m3u8?token=S40EA67AEC$IPV4•线路4
+PENTHOUSE GOLD,http://ott.server-iptv.live/707/manifest.m3u8?token=S76379DB41$IPV4•线路4
 PENTHOUSE PASSION,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5010/manifest.m3u8$IPV4•线路1
 PENTHOUSE PASSION,http://88b9da48.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/5010/manifest.m3u8$IPV4•线路2
 XXL,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5009/manifest.m3u8$IPV4•线路1
@@ -143,7 +143,7 @@ XYPLUS,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6288/manifest.m3u8$IPV4�
 SuperOne,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6298/manifest.m3u8$IPV4•线路1
 SuperOne,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6298/manifest.m3u8$IPV4•线路2
 BLACKED,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60031$IPV4•线路1
-BLACKED,http://ott.server-iptv.live/715/manifest.m3u8?token=S40EA67AEC$IPV4•线路2
+BLACKED,http://ott.server-iptv.live/715/manifest.m3u8?token=S76379DB41$IPV4•线路2
 FuckingAweSome,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60046$IPV4
 NewSeneation,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60047$IPV4
 Japan,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60045$IPV4
@@ -188,10 +188,10 @@ EV,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a$IPV4
 HUS,http://xionggroup.uk:2347/livehttpplay?channel_id=18244$IPV4
 D,http://213.91.179.28:8000/play/a0cf$IPV4
 Mature NL,http://live.mycamtv.com/bigtits.m3u8$IPV4
-REDLIGHT HD,http://ott.server-iptv.live/702/manifest.m3u8?token=S40EA67AEC$IPV4
-HUSTLER HD,http://ott.server-iptv.live/714/manifest.m3u8?token=S40EA67AEC$IPV4
-VIVID RED HD,http://ott.server-iptv.live/709/manifest.m3u8?token=S40EA67AEC$IPV4
-PRIVATE HD,http://ott.server-iptv.live/704/manifest.m3u8?token=S40EA67AEC$IPV4
+REDLIGHT HD,http://ott.server-iptv.live/702/manifest.m3u8?token=S76379DB41$IPV4
+HUSTLER HD,http://ott.server-iptv.live/714/manifest.m3u8?token=S76379DB41$IPV4
+VIVID RED HD,http://ott.server-iptv.live/709/manifest.m3u8?token=S76379DB41$IPV4
+PRIVATE HD,http://ott.server-iptv.live/704/manifest.m3u8?token=S76379DB41$IPV4
 EROX HD,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec$IPV4
 PLAYBOY TV,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269917.ts$IPV4
 SIRINA 2 FHD,https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8$IPV4
@@ -248,7 +248,7 @@ Eroxxx HD,http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8$IPV4
 Babes TV,http://31.43.191.125:8080/restream/restream/34929$IPV4
 Adult TV (18+),https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8$IPV4
 Anal Red TV,https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8$IPV4
-Club Sweethearts HD,http://ott.server-iptv.live/713/manifest.m3u8?token=S40EA67AEC$IPV4
+Club Sweethearts HD,http://ott.server-iptv.live/713/manifest.m3u8?token=S76379DB41$IPV4
 Big Ass Adult TV,http://live.redtraffic.xyz/bigass.m3u8$IPV4
 Big Dick Red TV,http://live.redtraffic.xyz/bigdick.m3u8$IPV4
 Big Tits Adult TV,http://live.redtraffic.xyz/bigtits.m3u8$IPV4
@@ -373,7 +373,7 @@ supertv,https://live.ottiptv.cc/huya/30080169$IPV4•线路2
 passion,https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8$IPV4
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 频道2,#genre#
-LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S40EA67AEC$IPV4
+LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4
 DDF,https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8$IPV4
 频道3,#genre#
 angel,https://live.ottiptv.cc/yy/1382828770$IPV4
