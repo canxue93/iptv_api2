@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-15,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-16,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6233/manifest.m3u8$IPV4•线路2
@@ -188,7 +188,6 @@ EV,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a$IPV4•线
 EV,http://zby.lskk.top/cdnlive.php?mode=play&id=3e46f60dc9ba4d282881b363ce772a46&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W$IPV4•线路2
 HUS,http://xionggroup.uk:2347/livehttpplay?channel_id=18244$IPV4
 D,http://213.91.179.28:8000/play/a0cf$IPV4
-MOFOS,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5230a590dff003ee&t=1023289173284144724&line=0&token=xxx$IPV4
 Mature NL,http://live.mycamtv.com/bigtits.m3u8$IPV4
 REDLIGHT HD,http://ott.server-iptv.live/702/manifest.m3u8?token=S76379DB41$IPV4
 HUSTLER HD,http://ott.server-iptv.live/714/manifest.m3u8?token=S76379DB41$IPV4
@@ -201,7 +200,7 @@ SIRINA 3 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1298269.ts$IP
 SUGARBABES FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1382478.ts$IPV4
 GOLDEN KEYHOLE HD,http://108.181.23.41:80/livehttpplay?channel_id=23623$IPV4
 LEO TV,http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8$IPV4
-LUXURE TV HD,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8b1a9e5c636bf7de&t=980189727705154288&line=0&token=xxx$IPV4
+LUXURE TV HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1088233.ts$IPV4
 COUGARS TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150347$IPV4
 EXEGIRLS TV HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1403615.ts$IPV4
 PULSION TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45461$IPV4
@@ -229,15 +228,13 @@ FAP TV 3,https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd
 PERV FAMILY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45443$IPV4
 MOFOS 1,http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8$IPV4
 BLUETV ASIAN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45467$IPV4
-BLUETV MILF HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1088233.ts$IPV4
 BLUETV GANGBANG HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269827.ts$IPV4
 FUXTV LUXURE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45460$IPV4
 FUXTV DEEPER HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/521134.ts$IPV4
 SUTRATV HEGRE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91878$IPV4
 REDLIGHTTV NEW SENSATIONS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/332166.ts$IPV4
 EROXTV SPORTS  HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45570$IPV4
-SEXBOX 2,http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8$IPV4
-SEXBOX 3,http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8$IPV4
+SEXBOX 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?$IPV4
 SLTV PORNBOX 1,http://rtmp.tvpro-online.ru/hls/ch1.m3u8$IPV4
 Babes,http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8$IPV4
 Red Lips,http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8$IPV4
@@ -321,7 +318,7 @@ Trans Angels,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/22129
 Vixen HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn$IPV4
 Wicked,http://31.43.191.125:8080/restream/restream/34666$IPV4
 Xpanded TV,https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8$IPV4
-Extreme,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3fb806d84401fe7b&t=58916146469077529&line=0&token=xxx$IPV4
+Extreme,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526$IPV4
 Fast Boyz,https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8$IPV4
 HOT,http://183.220.20.17:4321/rtp/239.10.0.151:5140$IPV4
 XY Mix HD,http://live.redtraffic.xyz/milf.m3u8$IPV4
@@ -377,8 +374,7 @@ Blowjob,http://live.redtraffic.xyz/blowjob.m3u8$IPV4•线路2
 Latina HD,http://live.redtraffic.xyz/latina.m3u8$IPV4
 POV HD,http://live.redtraffic.xyz/pov.m3u8$IPV4
 BABES,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$IPV4
-supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4•线路1
-supertv,https://live.ottiptv.cc/huya/30080169$IPV4•线路2
+supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4
 passion,https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8$IPV4
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 频道2,#genre#
