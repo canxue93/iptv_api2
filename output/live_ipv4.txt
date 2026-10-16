@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-16,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-17,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6233/manifest.m3u8$IPV4•线路2
@@ -281,7 +281,7 @@ MetArt HD,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f$IPV
 XXX 1,https://fxtvhls.wns.live/hls/stream.m3u8$IPV4
 XXX 2,https://toonixhls.wns.live/hls/stream.m3u8$IPV4
 DORCEL TV,https://live.eltv.az/live/eltv/playlist.m3u8$IPV4
-NUART,https://live.ottiptv.cc/huya/18527383$IPV4
+NUART,https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8$IPV4
 SCT,http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8$IPV4
 PINK O TV,http://zby.lskk.top/cdnlive.php?mode=play&id=f9a48471de2879b0f104d60f88c0eebd&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W$IPV4
 OH AH TV,https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8$IPV4
