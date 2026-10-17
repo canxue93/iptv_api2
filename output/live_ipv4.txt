@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-17,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-18,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/V4ZVP6G52HVXDE/6233/manifest.m3u8$IPV4•线路2
@@ -281,7 +281,7 @@ MetArt HD,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f$IPV
 XXX 1,https://fxtvhls.wns.live/hls/stream.m3u8$IPV4
 XXX 2,https://toonixhls.wns.live/hls/stream.m3u8$IPV4
 DORCEL TV,https://live.eltv.az/live/eltv/playlist.m3u8$IPV4
-NUART,https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8$IPV4
+NUART,https://live.ottiptv.cc/huya/18527383$IPV4
 SCT,http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8$IPV4
 PINK O TV,http://zby.lskk.top/cdnlive.php?mode=play&id=f9a48471de2879b0f104d60f88c0eebd&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W$IPV4
 OH AH TV,https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8$IPV4
@@ -374,14 +374,15 @@ Blowjob,http://live.redtraffic.xyz/blowjob.m3u8$IPV4•线路2
 Latina HD,http://live.redtraffic.xyz/latina.m3u8$IPV4
 POV HD,http://live.redtraffic.xyz/pov.m3u8$IPV4
 BABES,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$IPV4
-supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4
+supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4•线路1
+supertv,https://live.ottiptv.cc/huya/30080169$IPV4•线路2
 passion,https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8$IPV4
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 频道2,#genre#
 LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4
 DDF,https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8$IPV4
 频道3,#genre#
-angel,https://live.ottiptv.cc/yy/1382828770$IPV4
+angel,http://91.218.50.136/live/brunoceccarelli/brunoceccarelli10/1271926.ts$IPV4
 港台情色,#genre#
 春宫豪放女,https://vod1.vodyutu.com/20221015/LzgybwAo/index.m3u8$IPV4•线路1
 春宫豪放女,https://vod1.vodyutu.com/20221009/LFcDSgj4/index.m3u8$IPV4•线路2
@@ -398,7 +399,6 @@ angel,https://live.ottiptv.cc/yy/1382828770$IPV4
 醉后的玫瑰,http://tv.ximix.us/yy/1382736798$IPV4•线路1
 醉后的玫瑰,http://footyun.top:35455/yy/1382736798$IPV4•线路2
 醉后的玫瑰,http://45.192.97.170:8880/play/699.m3u8$IPV4•线路3
-醉后的玫瑰,https://live.ottiptv.cc/yy/1382736798$IPV4•线路4
 红楼春梦,http://alist.xicp.fun:35455/yy/1382745084$IPV4•线路1
 红楼春梦,https://live.metshop.top/yy/1382745084$IPV4•线路2
 红楼春梦,https://lunbo.freetv.top/yy/1382745084$IPV4•线路3
