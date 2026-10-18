@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-10-18" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-10-18
+#EXTINF:-1 tvg-id="1" tvg-name="2026-10-19" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-10-19
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="METART" tvg-logo="./pic/logosMETART.png" group-title="CR频道",METART
 http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
@@ -446,7 +446,7 @@ http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&str
 #EXTINF:-1 tvg-id="1" tvg-name="PERV FAMILY HD" tvg-logo="./pic/logosPERV FAMILY HD.png" group-title="俄罗斯",PERV FAMILY HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45443$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MOFOS 1" tvg-logo="./pic/logosMOFOS 1.png" group-title="俄罗斯",MOFOS 1
-http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8$IPV4
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BLUETV ASIAN HD" tvg-logo="./pic/logosBLUETV ASIAN HD.png" group-title="俄罗斯",BLUETV ASIAN HD
 http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45467$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BLUETV GANGBANG HD" tvg-logo="./pic/logosBLUETV GANGBANG HD.png" group-title="俄罗斯",BLUETV GANGBANG HD
@@ -556,7 +556,7 @@ https://toonixhls.wns.live/hls/stream.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="DORCEL TV" tvg-logo="./pic/logosDORCEL TV.png" group-title="俄罗斯",DORCEL TV
 https://live.eltv.az/live/eltv/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="NUART" tvg-logo="./pic/logosNUART.png" group-title="俄罗斯",NUART
-https://live.ottiptv.cc/huya/18527383$IPV4
+https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SCT" tvg-logo="./pic/logosSCT.png" group-title="俄罗斯",SCT
 http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="PINK O TV" tvg-logo="./pic/logosPINK O TV.png" group-title="俄罗斯",PINK O TV
@@ -676,7 +676,7 @@ http://31.43.191.125:8080/restream/restream/34603$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="POV TV" tvg-logo="./pic/logosPOV TV.png" group-title="俄罗斯",POV TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="RUSSIAN TV" tvg-logo="./pic/logosRUSSIAN TV.png" group-title="俄罗斯",RUSSIAN TV
-http://88.212.15.19/live/via_tv/index.m3u8$IPV4
+http://88.212.15.17/live/via_tv/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Ass Parade" tvg-logo="./pic/logosAss Parade.png" group-title="俄罗斯",Ass Parade
 https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="THREESOME TV" tvg-logo="./pic/logosTHREESOME TV.png" group-title="俄罗斯",THREESOME TV
@@ -752,7 +752,7 @@ http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="DDF" tvg-logo="./pic/logosDDF.png" group-title="频道2",DDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="angel" tvg-logo="./pic/logosangel.png" group-title="频道3",angel
-http://91.218.50.136/live/brunoceccarelli/brunoceccarelli10/1271926.ts$IPV4
+https://live.ottiptv.cc/yy/1382828770$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="春宫豪放女" tvg-logo="./pic/logos春宫豪放女.png" group-title="港台情色",春宫豪放女
 https://vod1.vodyutu.com/20221015/LzgybwAo/index.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="春宫豪放女" tvg-logo="./pic/logos春宫豪放女.png" group-title="港台情色",春宫豪放女
@@ -783,6 +783,8 @@ http://tv.ximix.us/yy/1382736798$IPV4•线路1
 http://footyun.top:35455/yy/1382736798$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="醉后的玫瑰" tvg-logo="./pic/logos醉后的玫瑰.png" group-title="港台情色",醉后的玫瑰
 http://45.192.97.170:8880/play/699.m3u8$IPV4•线路3
+#EXTINF:-1 tvg-id="4" tvg-name="醉后的玫瑰" tvg-logo="./pic/logos醉后的玫瑰.png" group-title="港台情色",醉后的玫瑰
+https://live.ottiptv.cc/yy/1382736798$IPV4•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="红楼春梦" tvg-logo="./pic/logos红楼春梦.png" group-title="港台情色",红楼春梦
 http://alist.xicp.fun:35455/yy/1382745084$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="红楼春梦" tvg-logo="./pic/logos红楼春梦.png" group-title="港台情色",红楼春梦
