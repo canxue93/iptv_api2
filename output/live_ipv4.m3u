@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-10-22" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-10-22
+#EXTINF:-1 tvg-id="1" tvg-name="2026-10-23" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-10-23
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="METART" tvg-logo="./pic/logosMETART.png" group-title="CR频道",METART
 http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
@@ -376,33 +376,25 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="LUXURE TV HD" tvg-logo="./pic/logosLUXURE TV HD.png" group-title="俄罗斯",LUXURE TV HD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1088233.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="COUGARS TV HD" tvg-logo="./pic/logosCOUGARS TV HD.png" group-title="俄罗斯",COUGARS TV HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150347$IPV4
+http://162.212.178.70:4842/bysid/802,239.108.3.34:49152$IPV4•线路1
+#EXTINF:-1 tvg-id="2" tvg-name="COUGARS TV HD" tvg-logo="./pic/logosCOUGARS TV HD.png" group-title="俄罗斯",COUGARS TV HD
+http://162.212.178.69:4442/bysid/802,236.4.3.34:49152$IPV4•线路2
+#EXTINF:-1 tvg-id="3" tvg-name="COUGARS TV HD" tvg-logo="./pic/logosCOUGARS TV HD.png" group-title="俄罗斯",COUGARS TV HD
+http://162.212.178.69:4042/bysid/802,236.0.3.34:49152$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="EXEGIRLS TV HD" tvg-logo="./pic/logosEXEGIRLS TV HD.png" group-title="俄罗斯",EXEGIRLS TV HD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1403615.ts$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="PORNOX TV HD" tvg-logo="./pic/logosPORNOX TV HD.png" group-title="俄罗斯",PORNOX TV HD
-http://162.212.178.70:4842/bysid/802,239.108.3.34:49152$IPV4•线路1
-#EXTINF:-1 tvg-id="2" tvg-name="PORNOX TV HD" tvg-logo="./pic/logosPORNOX TV HD.png" group-title="俄罗斯",PORNOX TV HD
-http://162.212.178.69:4442/bysid/802,236.4.3.34:49152$IPV4•线路2
-#EXTINF:-1 tvg-id="3" tvg-name="PORNOX TV HD" tvg-logo="./pic/logosPORNOX TV HD.png" group-title="俄罗斯",PORNOX TV HD
-http://162.212.178.69:4042/bysid/802,236.0.3.34:49152$IPV4•线路3
-#EXTINF:-1 tvg-id="1" tvg-name="PULSION TV HD" tvg-logo="./pic/logosPULSION TV HD.png" group-title="俄罗斯",PULSION TV HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45461$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="APHRODITE TV HD" tvg-logo="./pic/logosAPHRODITE TV HD.png" group-title="俄罗斯",APHRODITE TV HD
 http://162.212.178.69:4242/bysid/10,236.2.0.10:49152$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="FRANCESEX TV HD" tvg-logo="./pic/logosFRANCESEX TV HD.png" group-title="俄罗斯",FRANCESEX TV HD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/169717.ts$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="VENUSEXO TV HD" tvg-logo="./pic/logosVENUSEXO TV HD.png" group-title="俄罗斯",VENUSEXO TV HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1128930$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="NIGHT TV HD" tvg-logo="./pic/logosNIGHT TV HD.png" group-title="俄罗斯",NIGHT TV HD
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="DUSK TV" tvg-logo="./pic/logosDUSK TV.png" group-title="俄罗斯",DUSK TV
 http://31.146.5.178:8087/play/a00a/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SUPERONE" tvg-logo="./pic/logosSUPERONE.png" group-title="俄罗斯",SUPERONE
 mitv://147.135.39.171:9906/6ac497c30000478bc5e0989347fb3613$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="RUSSIAN" tvg-logo="./pic/logosRUSSIAN.png" group-title="俄罗斯",RUSSIAN
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91923$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="OLDTIMER HD" tvg-logo="./pic/logosOLDTIMER HD.png" group-title="俄罗斯",OLDTIMER HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45541$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71498.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MILF 2" tvg-logo="./pic/logosMILF 2.png" group-title="俄罗斯",MILF 2
 http://live.mycamtv.com/milf.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MATURE 2" tvg-logo="./pic/logosMATURE 2.png" group-title="俄罗斯",MATURE 2
@@ -413,24 +405,14 @@ http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052430.ts$IPV4
 http://148.113.160.49:14175/$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BABES TV" tvg-logo="./pic/logosBABES TV.png" group-title="俄罗斯",BABES TV
 http://31.43.191.125:8080/restream/restream/34633$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="ASSPARADE FHD" tvg-logo="./pic/logosASSPARADE FHD.png" group-title="俄罗斯",ASSPARADE FHD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91763$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="LATINA" tvg-logo="./pic/logosLATINA.png" group-title="俄罗斯",LATINA
 http://xionggroup.uk:2347/livehttpplay?channel_id=18223$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SLTV ADULT 1 HD" tvg-logo="./pic/logosSLTV ADULT 1 HD.png" group-title="俄罗斯",SLTV ADULT 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SLTV ADULT 2 HD" tvg-logo="./pic/logosSLTV ADULT 2 HD.png" group-title="俄罗斯",SLTV ADULT 2 HD
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="SLTV ADULT 4 HD" tvg-logo="./pic/logosSLTV ADULT 4 HD.png" group-title="俄罗斯",SLTV ADULT 4 HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150345$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="SLTV EROTIC HD" tvg-logo="./pic/logosSLTV EROTIC HD.png" group-title="俄罗斯",SLTV EROTIC HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91925$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="FAP TV 3" tvg-logo="./pic/logosFAP TV 3.png" group-title="俄罗斯",FAP TV 3
 https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="4K PORN 2 UHD" tvg-logo="./pic/logos4K PORN 2 UHD.png" group-title="俄罗斯",4K PORN 2 UHD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45580$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="PERV FAMILY HD" tvg-logo="./pic/logosPERV FAMILY HD.png" group-title="俄罗斯",PERV FAMILY HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45443$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="JULESJORDAN 1" tvg-logo="./pic/logosJULESJORDAN 1.png" group-title="俄罗斯",JULESJORDAN 1
 http://162.212.178.70:4842/bysid/812,239.108.3.44:49152$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="JULESJORDAN 1" tvg-logo="./pic/logosJULESJORDAN 1.png" group-title="俄罗斯",JULESJORDAN 1
@@ -439,20 +421,18 @@ http://162.212.178.69:4442/bysid/812,236.4.3.44:49152$IPV4•线路2
 http://162.212.178.69:4042/bysid/812,236.0.3.44:49152$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="MOFOS 1" tvg-logo="./pic/logosMOFOS 1.png" group-title="俄罗斯",MOFOS 1
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="BLUETV ASIAN HD" tvg-logo="./pic/logosBLUETV ASIAN HD.png" group-title="俄罗斯",BLUETV ASIAN HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45467$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="BLUETV FAMILY HD" tvg-logo="./pic/logosBLUETV FAMILY HD.png" group-title="俄罗斯",BLUETV FAMILY HD
+http://31.43.191.125:8080/restream/restream/34824$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BLUETV GANGBANG HD" tvg-logo="./pic/logosBLUETV GANGBANG HD.png" group-title="俄罗斯",BLUETV GANGBANG HD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269827.ts$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="FUXTV LUXURE HD" tvg-logo="./pic/logosFUXTV LUXURE HD.png" group-title="俄罗斯",FUXTV LUXURE HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45460$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="FUXTV DEEPER HD" tvg-logo="./pic/logosFUXTV DEEPER HD.png" group-title="俄罗斯",FUXTV DEEPER HD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/521134.ts$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="SUTRATV HEGRE HD" tvg-logo="./pic/logosSUTRATV HEGRE HD.png" group-title="俄罗斯",SUTRATV HEGRE HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91878$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="SUTRATV MISAX HD" tvg-logo="./pic/logosSUTRATV MISAX HD.png" group-title="俄罗斯",SUTRATV MISAX HD
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1172727.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="REDLIGHTTV NEW SENSATIONS HD" tvg-logo="./pic/logosREDLIGHTTV NEW SENSATIONS HD.png" group-title="俄罗斯",REDLIGHTTV NEW SENSATIONS HD
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/332166.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EROXTV SPORTS  HD" tvg-logo="./pic/logosEROXTV SPORTS  HD.png" group-title="俄罗斯",EROXTV SPORTS  HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45570$IPV4
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284314.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SEXBOX 2" tvg-logo="./pic/logosSEXBOX 2.png" group-title="俄罗斯",SEXBOX 2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SLTV PORNBOX 1" tvg-logo="./pic/logosSLTV PORNBOX 1.png" group-title="俄罗斯",SLTV PORNBOX 1
@@ -547,8 +527,6 @@ mitv://135.148.104.228:19806/67374ebc83ed44c9ab8ef794a2cd4d81$IPV4
 https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SUPER ONE XXX" tvg-logo="./pic/logosSUPER ONE XXX.png" group-title="俄罗斯",SUPER ONE XXX
 mitv://147.135.39.171:9906/686c97cb0001191ea7fc292346a17b52$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="SEX ATION HD XXX" tvg-logo="./pic/logosSEX ATION HD XXX.png" group-title="俄罗斯",SEX ATION HD XXX
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91867$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Venus TV XXX" tvg-logo="./pic/logosVenus TV XXX.png" group-title="俄罗斯",Venus TV XXX
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Zest TV XXX" tvg-logo="./pic/logosZest TV XXX.png" group-title="俄罗斯",Zest TV XXX
