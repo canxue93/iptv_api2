@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-26,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-27,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -221,8 +221,8 @@ FUXTV DEEPER HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/521134.ts$
 SUTRATV MISAX HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1172727.ts$IPV4
 REDLIGHTTV NEW SENSATIONS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/332166.ts$IPV4
 EROXTV SPORTS  HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284314.ts$IPV4
-SEXBOX 2,http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8$IPV4
-SEXBOX 3,http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8$IPV4
+SEXBOX 2,http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8$IPV4
+SEXBOX 3,http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8$IPV4
 SLTV PORNBOX 1,http://rtmp.tvpro-online.ru/hls/ch1.m3u8$IPV4
 Babes,http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8$IPV4
 Red Lips,http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8$IPV4
@@ -334,8 +334,7 @@ Anal Only,http://cdn.adultiptv.net/anal.m3u8$IPV4•线路2
 Anal Only,http://live.mycamtv.com/anal.m3u8$IPV4•线路3
 Alex Legend,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568$IPV4
 20152015,https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8$IPV4
-20212021,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv$IPV4•线路1
-20212021,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$IPV4•线路2
+20212021,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv$IPV4
 23202320,https://play92332.com/20220322/Sflw8j5Z/1802kb/hls/index.m3u8$IPV4
 31513151,https://v.imgstream2.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8$IPV4
 31613161,https://v.imgstream2.com/f/pzohakwafr/pzohakwafr.m3u8$IPV4
@@ -365,7 +364,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4
 DDF,https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8$IPV4
 频道3,#genre#
-angel,http://91.218.50.136/live/brunoceccarelli/brunoceccarelli10/1271926.ts$IPV4
+angel,https://live.ottiptv.cc/yy/1382828770$IPV4
 港台情色,#genre#
 春宫豪放女,https://vod1.vodyutu.com/20221015/LzgybwAo/index.m3u8$IPV4•线路1
 春宫豪放女,https://vod1.vodyutu.com/20221009/LFcDSgj4/index.m3u8$IPV4•线路2
@@ -382,6 +381,7 @@ angel,http://91.218.50.136/live/brunoceccarelli/brunoceccarelli10/1271926.ts$IPV
 醉后的玫瑰,http://tv.ximix.us/yy/1382736798$IPV4•线路1
 醉后的玫瑰,http://footyun.top:35455/yy/1382736798$IPV4•线路2
 醉后的玫瑰,http://45.192.97.170:8880/play/699.m3u8$IPV4•线路3
+醉后的玫瑰,https://live.ottiptv.cc/yy/1382736798$IPV4•线路4
 红楼春梦,http://alist.xicp.fun:35455/yy/1382745084$IPV4•线路1
 红楼春梦,https://live.metshop.top/yy/1382745084$IPV4•线路2
 红楼春梦,https://lunbo.freetv.top/yy/1382745084$IPV4•线路3
