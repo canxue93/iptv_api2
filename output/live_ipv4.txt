@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-28,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-29,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -263,7 +263,7 @@ XXX 1,https://fxtvhls.wns.live/hls/stream.m3u8$IPV4
 XXX 2,https://toonixhls.wns.live/hls/stream.m3u8$IPV4
 XXX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8$IPV4
 DORCEL TV,https://live.eltv.az/live/eltv/playlist.m3u8$IPV4
-NUART,https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8$IPV4
+NUART,https://live.ottiptv.cc/huya/18527383$IPV4
 SCT,http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8$IPV4
 OH AH TV,https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8$IPV4
 SHALUN TV,mitv://135.148.104.228:19806/67374ebc83ed44c9ab8ef794a2cd4d81$IPV4
@@ -320,7 +320,9 @@ Bang POV,https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/pla
 LATINA TV,https://live.mtna.tv/hls/mtna/mtna.m3u8$IPV4
 MILF TV,https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8$IPV4
 PORNSTAR TV,http://162.212.178.70:4542/bysid/1531,239.105.5.251:49152$IPV4
-POV TV,http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0$IPV4
+POV TV,mitv://135.148.104.228:19806/c3787c470e524e9ca1319e78305826b3$IPV4•线路1
+POV TV,http://31.43.191.125:8080/restream/restream/34638$IPV4•线路2
+POV TV,http://iptv.4666888.xyz/iptv2A.php?id=2$IPV4•线路3
 ROUGH TV,https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8$IPV4
 RUSSIAN TV,http://162.212.178.70:4842/bysid/803,239.108.3.35:49152$IPV4•线路1
 RUSSIAN TV,http://162.212.178.69:4442/bysid/803,236.4.3.35:49152$IPV4•线路2
@@ -334,8 +336,7 @@ Anal Only,http://cdn.adultiptv.net/anal.m3u8$IPV4•线路2
 Anal Only,http://live.mycamtv.com/anal.m3u8$IPV4•线路3
 Alex Legend,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568$IPV4
 20152015,https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8$IPV4
-20212021,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv$IPV4•线路1
-20212021,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$IPV4•线路2
+20212021,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv$IPV4
 23202320,https://play92332.com/20220322/Sflw8j5Z/1802kb/hls/index.m3u8$IPV4
 31513151,https://v.imgstream2.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8$IPV4
 31613161,https://v.imgstream2.com/f/pzohakwafr/pzohakwafr.m3u8$IPV4
