@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-10-30,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-10-31,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -162,12 +162,7 @@ Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8$IPV4•线路2
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8$IPV4•线路3
 潘多拉,http://cdn.adultiptv.net/pornstar.m3u8$IPV4•线路4
-彩虹电影,http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8$IPV4•线路1
-彩虹电影,http://tv.ximix.us/yy/37454459$IPV4•线路2
-彩虹电影,http://footyun.top:35455/yy/37454459$IPV4•线路3
-彩虹电影,https://mursor.ottiptv.cc/yy/37454459$IPV4•线路4
-彩虹电影,http://jiaojirentv.top/2020/yy.php?id=1354517447$IPV4•线路5
-彩虹电影,http://45.192.97.170:8880/play/619.m3u8$IPV4•线路6
+彩虹电影,https://yylunbo.ottiptv.cc/yy/1382745096$IPV4
 松视3,rtmp://112.29.121.74/live/易發TV-s1t$IPV4
 俄罗斯,#genre#
 Babes TV HD,https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8$IPV4
@@ -210,6 +205,7 @@ OLDTIMER HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71498.ts$IPV4
 MILF 2,http://live.mycamtv.com/milf.m3u8$IPV4
 MATURE 2,http://xionggroup.uk:2347/livehttpplay?channel_id=18209$IPV4
 BIG TITS 3,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052430.ts$IPV4
+SEXTREME,http://148.113.160.49:14175/$IPV4
 BABES TV,http://31.43.191.125:8080/restream/restream/34633$IPV4
 LATINA,http://xionggroup.uk:2347/livehttpplay?channel_id=18223$IPV4
 SLTV ADULT 1 HD,https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8$IPV4
@@ -339,7 +335,7 @@ Anal Only,http://cdn.adultiptv.net/anal.m3u8$IPV4•线路2
 Anal Only,http://live.mycamtv.com/anal.m3u8$IPV4•线路3
 Alex Legend,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568$IPV4
 20152015,https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8$IPV4
-20212021,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$IPV4
+20212021,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv$IPV4
 23202320,https://play92332.com/20220322/Sflw8j5Z/1802kb/hls/index.m3u8$IPV4
 31513151,https://v.imgstream2.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8$IPV4
 31613161,https://v.imgstream2.com/f/pzohakwafr/pzohakwafr.m3u8$IPV4
