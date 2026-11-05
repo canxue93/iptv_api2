@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-05,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-06,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -142,7 +142,7 @@ XYPLUS,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6288/manifest.m3u8$IPV4�
 SuperOne,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6298/manifest.m3u8$IPV4•线路1
 SuperOne,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6298/manifest.m3u8$IPV4•线路2
 BLACKED,http://ott.server-iptv.live/715/manifest.m3u8?token=S76379DB41$IPV4
-NewSeneation,http://hdhd.tk:80/kevinsmith/kevinsmith/28358$IPV4
+NewSeneation,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8$IPV4
 Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8$IPV4
 午夜频道,#genre#
 Кино 18+ International,http://158.101.222.193:88/georgia_play.php?id=1plus1international$IPV4
@@ -193,8 +193,7 @@ PRIVATE HD,http://ott.server-iptv.live/704/manifest.m3u8?token=S76379DB41$IPV4
 EROX HD,tvbus://3GN7Ynqnc45w6YAnCqPhknHwQmBdr8Po4bDAjQcwEE7iPLSCe4$IPV4•线路1
 EROX HD,tvbus://3GN7Ynqnc45w6YAnCgkW5PSpDbgaiuw74gypdvMDBzheF9fc2r$IPV4•线路2
 PLAYBOY TV,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59169.ts$IPV4•线路1
-PLAYBOY TV,https://pia.cx/live/qtTNEdtW/vpwLyzfw/14951.ts$IPV4•线路2
-PLAYBOY TV,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269917.ts$IPV4•线路3
+PLAYBOY TV,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/269917.ts$IPV4•线路2
 SIRINA 1 FHD,tvbus://3YpNaHBYR8Cwd4Eir8Q6WnTdgVAodG3L58b7EhhPLcvH3VpyJM$IPV4•线路1
 SIRINA 1 FHD,tvbus://3YpNaHBYR8Cwd4EirEfv5FuVAEHSgfYQAHYyWytRzK1LjgH18d$IPV4•线路2
 SIRINA 2 FHD,https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8$IPV4
@@ -211,6 +210,7 @@ APHRODITE TV HD,http://162.212.178.69:4242/bysid/10,236.2.0.10:49152$IPV4
 FRANCESEX TV HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/169717.ts$IPV4
 NIGHT TV HD,tvbus://3ii8oMcMAuGfgSU2RY7LgNAuLQqoPkGAzy9rn9juBGb4n8Jtvp$IPV4•线路1
 NIGHT TV HD,tvbus://3ii8oMcMAuGfgSU2RrR3KJigKs9X3pia8YbHeiPgB2xb7b4MsR$IPV4•线路2
+REALITY KINGS TV,http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4
 DUSK TV,http://31.146.5.178:8087/play/a00a/index.m3u8$IPV4
 SUPERONE,mitv://147.135.39.171:9906/6ac497c30000478bc5e0989347fb3613$IPV4
 OLDTIMER HD,tvbus://3Z9hcpp1W7yCbtrgqzoCquUgwwBNrJ4PjGHDKHC7R327Lcah48$IPV4•线路1
@@ -257,7 +257,8 @@ Blowjob Red TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb9078
 Blowjob Red TV,http://iptv.4666888.xyz/iptv2A.php?id=51$IPV4•线路2
 Blowjob Red TV,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-ive059$IPV4•线路3
 Blowjob Red TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV$IPV4•线路4
-Blowjob Red TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路5
+Blowjob Red TV,http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4•线路5
+Blowjob Red TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路6
 Brunette Adult TV,http://live.mycamtv.com/brunette.m3u8$IPV4
 Club 17,https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8$IPV4
 Compilation Adult TV,http://cdn.adultiptv.net/compilation.m3u8$IPV4•线路1
@@ -316,8 +317,9 @@ PORNSTERS 3,tvbus://4qF7fyEY5vePA4srPabKXRQZ5xt7xf8SfndPK1u1ixzx4pzpFs$IPV4•�
 PORNSTERS 3,tvbus://4qF7fyEY5vePA4srPT9MHtPAKRGo99Kz8EBuC4HnE2JhEyMEGd$IPV4•线路2
 PORNSTERS 4,tvbus://4raGqo5WLm3fEiz9EnyjgmM3uEFK3kA4PTEcaQv7haQQaeRyXb$IPV4•线路1
 PORNSTERS 4,tvbus://4raGqo5WLm3fEiz9EsVTtfCKGbGoSqeqc9Bvb9829UHpqVB79Z$IPV4•线路2
-PORNSTERS 5,https://pia.cx/live/qtTNEdtW/vpwLyzfw/600018708.ts$IPV4
+PORNSTERS 5,http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4
 PORNSTERS 6,http://mtayeh.ottb.xyz/live/774710333494/659822672281/14416.ts$IPV4
+PORNSTERS 7,http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4
 EROTIC HD,http://149.62.177.107:9999/TMC/index.m3u8$IPV4
 MILF Red TV,https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8$IPV4
 RK Prime,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526$IPV4
@@ -362,7 +364,6 @@ Anal Only,http://live.redtraffic.xyz/anal.m3u8$IPV4•线路1
 Anal Only,http://cdn.adultiptv.net/anal.m3u8$IPV4•线路2
 Anal Only,http://live.mycamtv.com/anal.m3u8$IPV4•线路3
 Alex Legend,http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568$IPV4
-Yosso TV Sexy,http://hdhd.tk:80/kevinsmith/kevinsmith/28845$IPV4
 20152015,https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8$IPV4
 20212021,https://play92332.com/20220322/Sflw8j5Z/1802kb/hls/index.m3u8$IPV4
 31513151,https://v.imgstream2.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8$IPV4
