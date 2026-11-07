@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-07,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-08,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -240,12 +240,13 @@ SEXBOX 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.i
 SLTV PORNBOX 1,http://rtmp.tvpro-online.ru/hls/ch1.m3u8$IPV4
 Babes,http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8$IPV4
 Red Lips,http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8$IPV4
-BCU Charm HD,https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd$IPV4
+BCU Charm HD,https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn$IPV4
 EroLuxe lesbians,http://live.redtraffic.xyz/lesbian.m3u8$IPV4
 EroLuxe russian,http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8$IPV4
 EroLuxe publicagent,http://xionggroup.uk:2347/livehttpplay?channel_id=18222$IPV4
 Eroxxx HD,http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8$IPV4
 Babes TV,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8$IPV4
+SexArt HD,http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8$IPV4
 Adult TV (18+),https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8$IPV4
 Anal Red TV,https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8$IPV4
 Club Sweethearts HD,http://ott.server-iptv.live/713/manifest.m3u8?token=S76379DB41$IPV4
@@ -336,8 +337,8 @@ XY Mix HD,http://live.redtraffic.xyz/milf.m3u8$IPV4
 VF Cartoon 18+,https://server.zillarbarta.com/zbcatun/video.m3u8$IPV4
 DP Fanatics,https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8$IPV4
 PURE BABES,https://vip2.slbfsl.com/20230323/t1rPcIXP/index.m3u8$IPV4
+XY Plus 1,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8$IPV4
 XY Plus 2,https://mmtvs.exliatycl.online/5plus/stream.m3u8$IPV4
-XY Plus 6,https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8$IPV4
 Venus HD,http://103.250.28.74:8000/play/a04x/index.m3u8$IPV4
 Passie XXX TV,https://clshls.wns.live/hls/stream.m3u8$IPV4
 Devils Film HD,http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=$IPV4
@@ -345,7 +346,10 @@ Dane Jones,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8c3
 Dancing Bear,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7qaabrc77ucr5apups0&ratio=720p&line=0$IPV4
 Family Swap,https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8$IPV4
 Family Strokes,https://jmp2.uk/plu-686d61503484d6073283059d.m3u8$IPV4
-BBC Pie,https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd$IPV4
+BBC Pie,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8$IPV4•线路1
+BBC Pie,http://tv.cloudcdn.me:80/live.ts?channelId=133067&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4•线路2
+BBC Pie,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8$IPV4•线路3
+BBC Pie,ttps://jmp2.uk/stvp-US4000033L$IPV4•线路4
 Bang POV,https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8$IPV4
 LATINA TV,https://live.mtna.tv/hls/mtna/mtna.m3u8$IPV4
 MILF TV,https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8$IPV4
@@ -511,17 +515,18 @@ heyzo1031,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8$IPV4
 5,https://u89ey.cdnedge.live/file/avple-images/hls/617c4cf1f0db60036839e944/playlist.m3u8$IPV4•线路9
 5,https://w9n76.cdnedge.live/file/avple-images/hls/61aea35902275f78f19d8f2b/playlist.m3u8$IPV4•线路10
 5,https://zo392.cdnedge.live/file/avple-images/hls/6193bcf11ab2cd467ae5359d/playlist.m3u8$IPV4•线路11
-6,https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路1
-6,https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路2
-6,https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路3
-6,https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路4
-6,https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路5
-6,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路6
-6,https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路7
-6,https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路8
-6,https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路9
-6,https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路10
-6,https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路11
+6,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$IPV4•线路1
+6,https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路2
+6,https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路3
+6,https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路4
+6,https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路5
+6,https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路6
+6,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路7
+6,https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路8
+6,https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路9
+6,https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路10
+6,https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路11
+6,https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路12
 7,https://1xp60.cdnedge.live/file/avple-images/hls/6193ba5e1ab2cd467ae53598/playlist.m3u8$IPV4•线路1
 7,https://10j99.cdnedge.live/file/avple-images/hls/6186240126bdd144b598cbd2/playlist.m3u8$IPV4•线路2
 7,https://47b61.cdnedge.live/file/avple-images/hls/609ce87dee36da5bb9b5e4bd/playlist.m3u8$IPV4•线路3
