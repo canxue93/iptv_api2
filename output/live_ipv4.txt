@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-10,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-11,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -156,14 +156,14 @@ Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8
 松視2台,http://live.redtraffic.xyz/fetish.m3u8$IPV4•线路3
 松視2台,http://cdn.adultiptv.net/fetish.m3u8$IPV4•线路4
 松視2台,http://live.redtraffic.xyz/fetish.m3u8fluxuslust.m3u8$IPV4•线路5
-香蕉,rtmp://kyyq.naiwch.com/live/易發TV-xjt$IPV4
+香蕉,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/xjt.flv$IPV4
 惊艳,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8$IPV4
 潘多拉,http://live.redtraffic.xyz:80/pornstar.m3u8$IPV4•线路1
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8$IPV4•线路2
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8$IPV4•线路3
 潘多拉,http://cdn.adultiptv.net/pornstar.m3u8$IPV4•线路4
 彩虹电影,https://yylunbo.ottiptv.cc/yy/1382745096$IPV4
-松视3,rtmp://kyyq.naiwch.com/live/易發TV-s1t$IPV4
+松视3,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/s1t.flv$IPV4
 俄罗斯,#genre#
 Babes TV HD,https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8$IPV4
 Frenchlover,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8$IPV4
@@ -387,7 +387,8 @@ Blowjob,http://live.redtraffic.xyz/blowjob.m3u8$IPV4•线路2
 Latina HD,http://live.redtraffic.xyz/latina.m3u8$IPV4
 POV HD,http://live.redtraffic.xyz/pov.m3u8$IPV4
 BABES,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$IPV4
-supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4
+supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4•线路1
+supertv,https://live.ottiptv.cc/huya/30080169$IPV4•线路2
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 频道2,#genre#
 LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4
@@ -402,6 +403,7 @@ angel,https://live.ottiptv.cc/yy/1382828770$IPV4
 美丽的杀手,https://vip1.slbfsl.com/20221110/6sS5ilxe/index.m3u8$IPV4
 欲火狂情,https://vod1.vodyutu.com/20221022/3q3EevhS/index.m3u8$IPV4
 野店,https://vod1.vodyutu.com/20221021/uDhiNC91/index.m3u8$IPV4
+血泪江湖,https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8$IPV4
 影子缠身,https://vod1.vodyutu.com/20220906/OkdEFJ7v/index.m3u8$IPV4
 赶尸艳谈,https://vod1.ttbfp2.com/20220316/QeLttooE/index.m3u8$IPV4
 冤女复仇,http://222.186.39.38:8000/435615/index.m3u8$IPV4
