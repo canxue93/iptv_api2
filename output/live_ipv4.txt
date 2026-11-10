@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-09,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-10,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -156,14 +156,14 @@ Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8
 松視2台,http://live.redtraffic.xyz/fetish.m3u8$IPV4•线路3
 松視2台,http://cdn.adultiptv.net/fetish.m3u8$IPV4•线路4
 松視2台,http://live.redtraffic.xyz/fetish.m3u8fluxuslust.m3u8$IPV4•线路5
-香蕉,rtmp://112.29.121.74/live/易發TV-xjt$IPV4
+香蕉,rtmp://kyyq.naiwch.com/live/易發TV-xjt$IPV4
 惊艳,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8$IPV4
 潘多拉,http://live.redtraffic.xyz:80/pornstar.m3u8$IPV4•线路1
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8$IPV4•线路2
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8$IPV4•线路3
 潘多拉,http://cdn.adultiptv.net/pornstar.m3u8$IPV4•线路4
 彩虹电影,https://yylunbo.ottiptv.cc/yy/1382745096$IPV4
-松视3,rtmp://112.29.121.74/live/易發TV-s1t$IPV4
+松视3,rtmp://kyyq.naiwch.com/live/易發TV-s1t$IPV4
 俄罗斯,#genre#
 Babes TV HD,https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8$IPV4
 Frenchlover,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8$IPV4
@@ -175,8 +175,7 @@ Asian,http://live.redtraffic.xyz/asian.m3u8$IPV4•线路2
 4K UHD,http://213.7.216.229:8888/udp/239.23.0.5:1234$IPV4
 DOR,https://play-drm.aliiptv.com/live/hbotw.m3u8?verify=1790056444-tDBo1je7aKklYPa7xgm2umnr4TGv8S5mpTeKOZX4rPs$IPV4
 Tee,http://live.redtraffic.xyz/teen.m3u8$IPV4
-EV,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a$IPV4•线路1
-EV,mitv://135.148.104.228:19806/3dc9f7c6c72a4c119bd40c820a2b7c7a$IPV4•线路2
+EV,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a$IPV4
 HUS,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/medhigh.m3u8$IPV4
 D,http://213.91.179.28:8000/play/a0cf$IPV4
 ADULT 2,tvbus://3MnKzZAf3K8nJ2pH5BmabbyxnH2czjdfGn6mPY2jZVUDJLQHJd$IPV4•线路1
@@ -210,9 +209,9 @@ APHRODITE TV HD,http://162.212.178.69:4242/bysid/10,236.2.0.10:49152$IPV4
 FRANCESEX TV HD,http://ysift55.xyz/live/2359A44613D5/29B294FCDFB3/169717.ts$IPV4
 NIGHT TV HD,tvbus://3ii8oMcMAuGfgSU2RY7LgNAuLQqoPkGAzy9rn9juBGb4n8Jtvp$IPV4•线路1
 NIGHT TV HD,tvbus://3ii8oMcMAuGfgSU2RrR3KJigKs9X3pia8YbHeiPgB2xb7b4MsR$IPV4•线路2
-REALITY KINGS TV,http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4
+REALITY KINGS TV,http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4
 DUSK TV,http://31.146.5.178:8087/play/a00a/index.m3u8$IPV4
-SUPERONE,mitv://147.135.39.171:9906/6ac497c30000478bc5e0989347fb3613$IPV4
+SUPERONE,https://vip2.slbfsl.com/20230323/t1rPcIXP/index.m3u8$IPV4
 OLDTIMER HD,tvbus://3Z9hcpp1W7yCbtrgqzoCquUgwwBNrJ4PjGHDKHC7R327Lcah48$IPV4•线路1
 OLDTIMER HD,tvbus://3Z9hcpp1W7yCbtrgr72dKXVGry3e1ex13GFo32ywdQKeA8g2mp$IPV4•线路2
 MILF 2,http://live.mycamtv.com/milf.m3u8$IPV4
@@ -258,7 +257,7 @@ Blowjob Red TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb9078
 Blowjob Red TV,http://iptv.4666888.xyz/iptv2A.php?id=51$IPV4•线路2
 Blowjob Red TV,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-ive059$IPV4•线路3
 Blowjob Red TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV$IPV4•线路4
-Blowjob Red TV,http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4•线路5
+Blowjob Red TV,http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路5
 Blowjob Red TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路6
 Brunette Adult TV,http://live.mycamtv.com/brunette.m3u8$IPV4
 Club 17,https://t0.97img.com/a1001885/a.m3u8$IPV4
@@ -290,14 +289,12 @@ SCT,tvbus://3cTHYMprkLZeVpvRziK6SSJGGiuSWzzhjqc1PdsbJZrbugHiBK$IPV4•线路3
 PINK O TV,tvbus://3b8U44WfdW6V2m7Zzezdh9e7zuXdv83xp81YRx8E66kHYzYJCJ$IPV4•线路1
 PINK O TV,tvbus://3b8U44WfdW6V2m7Zzeo41VESHoEanNeCwzw6gRXmEBn5PReThp$IPV4•线路2
 OH AH TV,https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8$IPV4
-SHALUN TV,mitv://135.148.104.228:19806/67374ebc83ed44c9ab8ef794a2cd4d81$IPV4•线路1
-SHALUN TV,tvbus://4NGEcNNnmRBpuGg7NzEV1u8qS7H8sq4htqDMkxrdNLYrn6tcaZ$IPV4•线路2
-SHALUN TV,tvbus://4NGEcNNnmRBpuGg7Nwr73e9kQ5XYi1iBMhrX1vLgqWGtopGZDv$IPV4•线路3
-SHALUN TV,tvbus://3yVrUcMTVTzh2rVZ69UzRzoM53etY8cnDiLKqEpDrQ2iBTjnfa$IPV4•线路4
-SHALUN TV,tvbus://3yVrUcMTVTzh2rVZ6B9sa2AyJ6xvXc5r9jTtCuxNSmJYWGRV3u$IPV4•线路5
+SHALUN TV,tvbus://4NGEcNNnmRBpuGg7NzEV1u8qS7H8sq4htqDMkxrdNLYrn6tcaZ$IPV4•线路1
+SHALUN TV,tvbus://4NGEcNNnmRBpuGg7Nwr73e9kQ5XYi1iBMhrX1vLgqWGtopGZDv$IPV4•线路2
+SHALUN TV,tvbus://3yVrUcMTVTzh2rVZ69UzRzoM53etY8cnDiLKqEpDrQ2iBTjnfa$IPV4•线路3
+SHALUN TV,tvbus://3yVrUcMTVTzh2rVZ6B9sa2AyJ6xvXc5r9jTtCuxNSmJYWGRV3u$IPV4•线路4
 CANDY TV,https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8$IPV4
 FAP TV 4,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221256$IPV4
-SUPER ONE XXX,mitv://147.135.39.171:9906/686c97cb0001191ea7fc292346a17b52$IPV4
 Venus TV XXX,https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8$IPV4
 Zest TV XXX,https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8$IPV4
 XXX Live Cams,http://cdn.adultiptv.net/livecams.m3u8$IPV4
@@ -319,9 +316,9 @@ PORNSTERS 3,tvbus://4qF7fyEY5vePA4srPabKXRQZ5xt7xf8SfndPK1u1ixzx4pzpFs$IPV4•�
 PORNSTERS 3,tvbus://4qF7fyEY5vePA4srPT9MHtPAKRGo99Kz8EBuC4HnE2JhEyMEGd$IPV4•线路2
 PORNSTERS 4,tvbus://4raGqo5WLm3fEiz9EnyjgmM3uEFK3kA4PTEcaQv7haQQaeRyXb$IPV4•线路1
 PORNSTERS 4,tvbus://4raGqo5WLm3fEiz9EsVTtfCKGbGoSqeqc9Bvb9829UHpqVB79Z$IPV4•线路2
-PORNSTERS 5,http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4
+PORNSTERS 5,http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4
 PORNSTERS 6,http://mtayeh.ottb.xyz/live/774710333494/659822672281/14416.ts$IPV4
-PORNSTERS 7,http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4
+PORNSTERS 7,http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4
 MILF Red TV,https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8$IPV4
 RK Prime,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526$IPV4
 RK TV,tvbus://4LHYkUCsA3vxw6Vi55GJ8PUrfDnmcAeLYsYG3Bg9zC3xnJQSnc$IPV4•线路1
@@ -336,7 +333,6 @@ HOT,http://183.220.20.17:4321/rtp/239.10.0.151:5140$IPV4
 XY Mix HD,http://live.redtraffic.xyz/milf.m3u8$IPV4
 VF Cartoon 18+,https://server.zillarbarta.com/zbcatun/video.m3u8$IPV4
 DP Fanatics,https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8$IPV4
-PURE BABES,https://vip2.slbfsl.com/20230323/t1rPcIXP/index.m3u8$IPV4
 XY Plus 1,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8$IPV4
 XY Plus 2,https://mmtvs.exliatycl.online/5plus/stream.m3u8$IPV4
 Venus HD,http://103.250.28.74:8000/play/a04x/index.m3u8$IPV4
@@ -347,7 +343,7 @@ Dancing Bear,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7q
 Family Swap,https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8$IPV4
 Family Strokes,https://jmp2.uk/plu-686d61503484d6073283059d.m3u8$IPV4
 BBC Pie,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8$IPV4•线路1
-BBC Pie,http://tv.cloudcdn.me:80/live.ts?channelId=133067&uid=10223&deviceMac=00:1A:79:07:07:43$IPV4•线路2
+BBC Pie,http://tv.cloudcdn.me:80/live.ts?channelId=133067&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路2
 BBC Pie,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8$IPV4•线路3
 BBC Pie,ttps://jmp2.uk/stvp-US4000033L$IPV4•线路4
 Bang POV,https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8$IPV4
@@ -391,8 +387,7 @@ Blowjob,http://live.redtraffic.xyz/blowjob.m3u8$IPV4•线路2
 Latina HD,http://live.redtraffic.xyz/latina.m3u8$IPV4
 POV HD,http://live.redtraffic.xyz/pov.m3u8$IPV4
 BABES,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$IPV4
-supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4•线路1
-supertv,https://live.ottiptv.cc/huya/30080169$IPV4•线路2
+supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 频道2,#genre#
 LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4
@@ -407,7 +402,6 @@ angel,https://live.ottiptv.cc/yy/1382828770$IPV4
 美丽的杀手,https://vip1.slbfsl.com/20221110/6sS5ilxe/index.m3u8$IPV4
 欲火狂情,https://vod1.vodyutu.com/20221022/3q3EevhS/index.m3u8$IPV4
 野店,https://vod1.vodyutu.com/20221021/uDhiNC91/index.m3u8$IPV4
-血泪江湖,https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8$IPV4
 影子缠身,https://vod1.vodyutu.com/20220906/OkdEFJ7v/index.m3u8$IPV4
 赶尸艳谈,https://vod1.ttbfp2.com/20220316/QeLttooE/index.m3u8$IPV4
 冤女复仇,http://222.186.39.38:8000/435615/index.m3u8$IPV4
@@ -515,18 +509,17 @@ heyzo1031,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8$IPV4
 5,https://u89ey.cdnedge.live/file/avple-images/hls/617c4cf1f0db60036839e944/playlist.m3u8$IPV4•线路9
 5,https://w9n76.cdnedge.live/file/avple-images/hls/61aea35902275f78f19d8f2b/playlist.m3u8$IPV4•线路10
 5,https://zo392.cdnedge.live/file/avple-images/hls/6193bcf11ab2cd467ae5359d/playlist.m3u8$IPV4•线路11
-6,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$IPV4•线路1
-6,https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路2
-6,https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路3
-6,https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路4
-6,https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路5
-6,https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路6
-6,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路7
-6,https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路8
-6,https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路9
-6,https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路10
-6,https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路11
-6,https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路12
+6,https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路1
+6,https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路2
+6,https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路3
+6,https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路4
+6,https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路5
+6,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路6
+6,https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路7
+6,https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路8
+6,https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路9
+6,https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路10
+6,https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路11
 7,https://1xp60.cdnedge.live/file/avple-images/hls/6193ba5e1ab2cd467ae53598/playlist.m3u8$IPV4•线路1
 7,https://10j99.cdnedge.live/file/avple-images/hls/6186240126bdd144b598cbd2/playlist.m3u8$IPV4•线路2
 7,https://47b61.cdnedge.live/file/avple-images/hls/609ce87dee36da5bb9b5e4bd/playlist.m3u8$IPV4•线路3
