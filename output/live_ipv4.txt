@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-11,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-12,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -368,6 +368,7 @@ Alex Legend,http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0
 31513151,https://v.imgstream2.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8$IPV4
 31613161,https://v.imgstream2.com/f/pzohakwafr/pzohakwafr.m3u8$IPV4
 31623162,https://v.imgstream2.com/g/whauznmlmn/whauznmlmn.m3u8$IPV4
+31693169,2$IPV4
 31863186,https://v.imgstream2.com/h/jwiosfhegr/jwiosfhegr.m3u8$IPV4
 31903190,https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8$IPV4
 31973197,https://v.imgstream2.com/f/mmkojnrogn/mmkojnrogn.m3u8$IPV4
