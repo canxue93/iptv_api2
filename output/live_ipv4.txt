@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-12,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-13,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -59,7 +59,6 @@ Brazzers,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6222/manifest.m3u8$IPV
 Brazzers,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6222/manifest.m3u8$IPV4•线路3
 Brazzers,http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8$IPV4•线路4
 Brazzers,http://ott.server-iptv.live/705/manifest.m3u8?token=S76379DB41$IPV4•线路5
-Brazzers,http://xionggroup.uk:2347/livehttpplay?channel_id=18212$IPV4•线路6
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8$IPV4•线路1
 Eroxxx,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5015/manifest.m3u8$IPV4•线路2
 Eroxxx,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/5015/manifest.m3u8$IPV4•线路3
@@ -162,7 +161,11 @@ Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8$IPV4•线路2
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8$IPV4•线路3
 潘多拉,http://cdn.adultiptv.net/pornstar.m3u8$IPV4•线路4
-彩虹电影,https://yylunbo.ottiptv.cc/yy/1382745096$IPV4
+彩虹电影,http://tv.ximix.us/yy/37454459$IPV4•线路1
+彩虹电影,http://footyun.top:35455/yy/37454459$IPV4•线路2
+彩虹电影,https://mursor.ottiptv.cc/yy/37454459$IPV4•线路3
+彩虹电影,http://jiaojirentv.top/2020/yy.php?id=1354517447$IPV4•线路4
+彩虹电影,https://live.ottiptv.cc/yy/37454459$IPV4•线路5
 松视3,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/s1t.flv$IPV4
 俄罗斯,#genre#
 Babes TV HD,https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8$IPV4
@@ -218,9 +221,7 @@ MILF 2,http://live.mycamtv.com/milf.m3u8$IPV4
 MATURE 2,tvbus://3xpDDGSVArTL7v1c8hJn99LGZSMa43AFPxb8j8MhwgLbfBh8H4$IPV4•线路1
 MATURE 2,tvbus://3xpDDGSVArTL7v1c8oDutPwafMWT8KB4XMixBjRSTog8rKFnYc$IPV4•线路2
 BIG TITS 3,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052430.ts$IPV4
-SEXTREME,http://148.113.160.49:14175/$IPV4
 BABES TV,http://31.43.191.125:8080/restream/restream/34633$IPV4
-LATINA,http://xionggroup.uk:2347/livehttpplay?channel_id=18223$IPV4
 SLTV ADULT 1 HD,https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8$IPV4
 SLTV ADULT 2 HD,https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8$IPV4
 FAP TV 3,https://edge.enhdtv.com/faptv/index.m3u8$IPV4
@@ -239,10 +240,8 @@ SEXBOX 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.i
 SLTV PORNBOX 1,http://rtmp.tvpro-online.ru/hls/ch1.m3u8$IPV4
 Babes,http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8$IPV4
 Red Lips,http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8$IPV4
-BCU Charm HD,https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn$IPV4
 EroLuxe lesbians,http://live.redtraffic.xyz/lesbian.m3u8$IPV4
 EroLuxe russian,http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8$IPV4
-EroLuxe publicagent,http://xionggroup.uk:2347/livehttpplay?channel_id=18222$IPV4
 Eroxxx HD,http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8$IPV4
 Babes TV,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8$IPV4
 SexArt HD,http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8$IPV4
@@ -256,9 +255,8 @@ Blacked HD,http://live.redtraffic.xyz/cuckold.m3u8$IPV4
 Blowjob Red TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780$IPV4•线路1
 Blowjob Red TV,http://iptv.4666888.xyz/iptv2A.php?id=51$IPV4•线路2
 Blowjob Red TV,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-ive059$IPV4•线路3
-Blowjob Red TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV$IPV4•线路4
-Blowjob Red TV,http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路5
-Blowjob Red TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路6
+Blowjob Red TV,http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路4
+Blowjob Red TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路5
 Brunette Adult TV,http://live.mycamtv.com/brunette.m3u8$IPV4
 Club 17,https://t0.97img.com/a1001885/a.m3u8$IPV4
 Compilation Adult TV,http://cdn.adultiptv.net/compilation.m3u8$IPV4•线路1
@@ -325,7 +323,7 @@ RK TV,tvbus://4LHYkUCsA3vxw6Vi55GJ8PUrfDnmcAeLYsYG3Bg9zC3xnJQSnc$IPV4•线路1
 RK TV,tvbus://4LHYkUCsA3vxw6Vi4pqaZ8NTphk8BUdbViqRkH94Ee3zeXs8wf$IPV4•线路2
 Teen Red TV,https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8$IPV4
 Trans Angels,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221292$IPV4
-Vixen HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn$IPV4
+Vixen HD,http://89.187.177.137:8081/&FLIX/index.m3u8$IPV4
 Wicked,http://31.43.191.125:8080/restream/restream/34666$IPV4
 Xpanded TV,https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8$IPV4
 Fast Boyz,https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8$IPV4
@@ -407,7 +405,6 @@ angel,https://live.ottiptv.cc/yy/1382828770$IPV4
 血泪江湖,https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8$IPV4
 影子缠身,https://vod1.vodyutu.com/20220906/OkdEFJ7v/index.m3u8$IPV4
 赶尸艳谈,https://vod1.ttbfp2.com/20220316/QeLttooE/index.m3u8$IPV4
-冤女复仇,http://222.186.39.38:8000/435615/index.m3u8$IPV4
 倩女性花开,https://vod1.vodyutu.com/20220906/bNMYgzEH/index.m3u8$IPV4
 醉后的玫瑰,http://tv.ximix.us/yy/1382736798$IPV4•线路1
 醉后的玫瑰,http://footyun.top:35455/yy/1382736798$IPV4•线路2
