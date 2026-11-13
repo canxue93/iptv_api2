@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-11-13" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-11-13
+#EXTINF:-1 tvg-id="1" tvg-name="2026-11-14" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-11-14
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="METART" tvg-logo="./pic/logosMETART.png" group-title="CR频道",METART
 http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
@@ -286,7 +286,7 @@ https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-id="1" tvg-name="Vivid Red HD" tvg-logo="./pic/logosVivid Red HD.png" group-title="CR频道",Vivid Red HD
 http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Кино 18+ International" tvg-logo="./pic/logosКино 18+ International.png" group-title="午夜频道",Кино 18+ International
-http://158.101.222.193:88/georgia_play.php?id=1plus1international$IPV4
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="松視1台" tvg-logo="./pic/logos松視1台.png" group-title="台湾频道",松視1台
 http://live.redtraffic.xyz:80/interracial.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="松視1台" tvg-logo="./pic/logos松視1台.png" group-title="台湾频道",松視1台
@@ -318,15 +318,7 @@ http://live.redtraffic.xyz/pornstar.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="潘多拉" tvg-logo="./pic/logos潘多拉.png" group-title="台湾频道",潘多拉
 http://cdn.adultiptv.net/pornstar.m3u8$IPV4•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="彩虹电影" tvg-logo="./pic/logos彩虹电影.png" group-title="台湾频道",彩虹电影
-http://tv.ximix.us/yy/37454459$IPV4•线路1
-#EXTINF:-1 tvg-id="2" tvg-name="彩虹电影" tvg-logo="./pic/logos彩虹电影.png" group-title="台湾频道",彩虹电影
-http://footyun.top:35455/yy/37454459$IPV4•线路2
-#EXTINF:-1 tvg-id="3" tvg-name="彩虹电影" tvg-logo="./pic/logos彩虹电影.png" group-title="台湾频道",彩虹电影
-https://mursor.ottiptv.cc/yy/37454459$IPV4•线路3
-#EXTINF:-1 tvg-id="4" tvg-name="彩虹电影" tvg-logo="./pic/logos彩虹电影.png" group-title="台湾频道",彩虹电影
-http://jiaojirentv.top/2020/yy.php?id=1354517447$IPV4•线路4
-#EXTINF:-1 tvg-id="5" tvg-name="彩虹电影" tvg-logo="./pic/logos彩虹电影.png" group-title="台湾频道",彩虹电影
-https://live.ottiptv.cc/yy/37454459$IPV4•线路5
+https://yylunbo.ottiptv.cc/yy/1382745096$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="松视3" tvg-logo="./pic/logos松视3.png" group-title="台湾频道",松视3
 http://128.14.206.166/pull-f5.flive.douyincdn.com/live/s1t.flv$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Babes TV HD" tvg-logo="./pic/logosBabes TV HD.png" group-title="俄罗斯",Babes TV HD
@@ -435,6 +427,8 @@ tvbus://3xpDDGSVArTL7v1c8hJn99LGZSMa43AFPxb8j8MhwgLbfBh8H4$IPV4•线路1
 tvbus://3xpDDGSVArTL7v1c8oDutPwafMWT8KB4XMixBjRSTog8rKFnYc$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="BIG TITS 3" tvg-logo="./pic/logosBIG TITS 3.png" group-title="俄罗斯",BIG TITS 3
 http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052430.ts$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="SEXTREME" tvg-logo="./pic/logosSEXTREME.png" group-title="俄罗斯",SEXTREME
+http://148.113.160.49:14175/$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BABES TV" tvg-logo="./pic/logosBABES TV.png" group-title="俄罗斯",BABES TV
 http://31.43.191.125:8080/restream/restream/34633$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SLTV ADULT 1 HD" tvg-logo="./pic/logosSLTV ADULT 1 HD.png" group-title="俄罗斯",SLTV ADULT 1 HD
@@ -473,6 +467,8 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8$IPV4
 http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Red Lips" tvg-logo="./pic/logosRed Lips.png" group-title="俄罗斯",Red Lips
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="BCU Charm HD" tvg-logo="./pic/logosBCU Charm HD.png" group-title="俄罗斯",BCU Charm HD
+https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EroLuxe lesbians" tvg-logo="./pic/logosEroLuxe lesbians.png" group-title="俄罗斯",EroLuxe lesbians
 http://live.redtraffic.xyz/lesbian.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="EroLuxe russian" tvg-logo="./pic/logosEroLuxe russian.png" group-title="俄罗斯",EroLuxe russian
@@ -504,9 +500,11 @@ http://iptv.4666888.xyz/iptv2A.php?id=51$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="Blowjob Red TV" tvg-logo="./pic/logosBlowjob Red TV.png" group-title="俄罗斯",Blowjob Red TV
 https://www.caonizuzong.cc.cd/4gtv?id=4gtv-ive059$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="Blowjob Red TV" tvg-logo="./pic/logosBlowjob Red TV.png" group-title="俄罗斯",Blowjob Red TV
-http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路4
+https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="Blowjob Red TV" tvg-logo="./pic/logosBlowjob Red TV.png" group-title="俄罗斯",Blowjob Red TV
-http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路5
+http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路5
+#EXTINF:-1 tvg-id="6" tvg-name="Blowjob Red TV" tvg-logo="./pic/logosBlowjob Red TV.png" group-title="俄罗斯",Blowjob Red TV
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路6
 #EXTINF:-1 tvg-id="1" tvg-name="Brunette Adult TV" tvg-logo="./pic/logosBrunette Adult TV.png" group-title="俄罗斯",Brunette Adult TV
 http://live.mycamtv.com/brunette.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Club 17" tvg-logo="./pic/logosClub 17.png" group-title="俄罗斯",Club 17
@@ -640,7 +638,7 @@ https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Trans Angels" tvg-logo="./pic/logosTrans Angels.png" group-title="俄罗斯",Trans Angels
 http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221292$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Vixen HD" tvg-logo="./pic/logosVixen HD.png" group-title="俄罗斯",Vixen HD
-http://89.187.177.137:8081/&FLIX/index.m3u8$IPV4
+https://smart.946985.filegear-sg.me/smart.php?id=Axn$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Wicked" tvg-logo="./pic/logosWicked.png" group-title="俄罗斯",Wicked
 http://31.43.191.125:8080/restream/restream/34666$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Xpanded TV" tvg-logo="./pic/logosXpanded TV.png" group-title="俄罗斯",Xpanded TV
@@ -715,6 +713,8 @@ http://cdn.adultiptv.net/anal.m3u8$IPV4•线路2
 http://live.mycamtv.com/anal.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="1" tvg-name="Alex Legend" tvg-logo="./pic/logosAlex Legend.png" group-title="俄罗斯",Alex Legend
 http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="Tviksel Кино 18+ International" tvg-logo="./pic/logosTviksel Кино 18+ International.png" group-title="俄罗斯",Tviksel Кино 18+ International
+http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="20152015" tvg-logo="./pic/logos20152015.png" group-title="俄罗斯",20152015
 https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="20212021" tvg-logo="./pic/logos20212021.png" group-title="俄罗斯",20212021
@@ -795,6 +795,8 @@ https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8$IPV4
 https://vod1.vodyutu.com/20220906/OkdEFJ7v/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="赶尸艳谈" tvg-logo="./pic/logos赶尸艳谈.png" group-title="港台情色",赶尸艳谈
 https://vod1.ttbfp2.com/20220316/QeLttooE/index.m3u8$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="冤女复仇" tvg-logo="./pic/logos冤女复仇.png" group-title="港台情色",冤女复仇
+http://222.186.39.38:8000/435615/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="倩女性花开" tvg-logo="./pic/logos倩女性花开.png" group-title="港台情色",倩女性花开
 https://vod1.vodyutu.com/20220906/bNMYgzEH/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="醉后的玫瑰" tvg-logo="./pic/logos醉后的玫瑰.png" group-title="港台情色",醉后的玫瑰
@@ -1000,27 +1002,29 @@ https://w9n76.cdnedge.live/file/avple-images/hls/61aea35902275f78f19d8f2b/playli
 #EXTINF:-1 tvg-id="11" tvg-name="5" tvg-logo="./pic/logos5.png" group-title="欧美影片",5
 https://zo392.cdnedge.live/file/avple-images/hls/6193bcf11ab2cd467ae5359d/playlist.m3u8$IPV4•线路11
 #EXTINF:-1 tvg-id="1" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路1
+http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路2
+https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路2
 #EXTINF:-1 tvg-id="3" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路3
+https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路4
+https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路4
 #EXTINF:-1 tvg-id="5" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路5
+https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路5
 #EXTINF:-1 tvg-id="6" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路6
+https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路6
 #EXTINF:-1 tvg-id="7" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路7
+https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路7
 #EXTINF:-1 tvg-id="8" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路8
+https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路8
 #EXTINF:-1 tvg-id="9" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路9
+https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路9
 #EXTINF:-1 tvg-id="10" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路10
+https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路10
 #EXTINF:-1 tvg-id="11" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
-https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路11
+https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路11
+#EXTINF:-1 tvg-id="12" tvg-name="6" tvg-logo="./pic/logos6.png" group-title="欧美影片",6
+https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路12
 #EXTINF:-1 tvg-id="1" tvg-name="7" tvg-logo="./pic/logos7.png" group-title="欧美影片",7
 https://1xp60.cdnedge.live/file/avple-images/hls/6193ba5e1ab2cd467ae53598/playlist.m3u8$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="7" tvg-logo="./pic/logos7.png" group-title="欧美影片",7
@@ -1090,6 +1094,6 @@ https://w9n76.cdnedge.live/file/avple-images/hls/61c6aafd668fd93b4250a326/playli
 #EXTINF:-1 tvg-id="11" tvg-name="9" tvg-logo="./pic/logos9.png" group-title="欧美影片",9
 https://zo392.cdnedge.live/file/avple-images/hls/61accd33779a324ef83699a3/playlist.m3u8$IPV4•线路11
 #EXTINF:-1 tvg-id="1" tvg-name="And Natural 1" tvg-logo="./pic/logosAnd Natural 1.png" group-title="欧美影片",And Natural 1
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000caj6qnrc77u88k20m8jg&ratio=720p&line=0$IPV4
+https://vd2.bdstatic.com/mda-qm341hq0h9s3e2w4/hd/cae_h264/1733280946675578974/mda-qm341hq0h9s3e2w4.mp4$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MyCamTV Anal" tvg-logo="./pic/logosMyCamTV Anal.png" group-title="欧美影片",MyCamTV Anal
 https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8$IPV4

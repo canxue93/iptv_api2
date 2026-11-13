@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-13,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-14,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -144,7 +144,7 @@ BLACKED,http://ott.server-iptv.live/715/manifest.m3u8?token=S76379DB41$IPV4
 NewSeneation,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8$IPV4
 Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8$IPV4
 午夜频道,#genre#
-Кино 18+ International,http://158.101.222.193:88/georgia_play.php?id=1plus1international$IPV4
+Кино 18+ International,https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8$IPV4
 台湾频道,#genre#
 松視1台,http://live.redtraffic.xyz:80/interracial.m3u8$IPV4•线路1
 松視1台,http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8$IPV4•线路2
@@ -161,11 +161,7 @@ Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8$IPV4•线路2
 潘多拉,http://live.redtraffic.xyz/pornstar.m3u8$IPV4•线路3
 潘多拉,http://cdn.adultiptv.net/pornstar.m3u8$IPV4•线路4
-彩虹电影,http://tv.ximix.us/yy/37454459$IPV4•线路1
-彩虹电影,http://footyun.top:35455/yy/37454459$IPV4•线路2
-彩虹电影,https://mursor.ottiptv.cc/yy/37454459$IPV4•线路3
-彩虹电影,http://jiaojirentv.top/2020/yy.php?id=1354517447$IPV4•线路4
-彩虹电影,https://live.ottiptv.cc/yy/37454459$IPV4•线路5
+彩虹电影,https://yylunbo.ottiptv.cc/yy/1382745096$IPV4
 松视3,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/s1t.flv$IPV4
 俄罗斯,#genre#
 Babes TV HD,https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8$IPV4
@@ -221,6 +217,7 @@ MILF 2,http://live.mycamtv.com/milf.m3u8$IPV4
 MATURE 2,tvbus://3xpDDGSVArTL7v1c8hJn99LGZSMa43AFPxb8j8MhwgLbfBh8H4$IPV4•线路1
 MATURE 2,tvbus://3xpDDGSVArTL7v1c8oDutPwafMWT8KB4XMixBjRSTog8rKFnYc$IPV4•线路2
 BIG TITS 3,http://ysift55.xyz/live/44659DC712A881F/z1QCJdKfa4/1052430.ts$IPV4
+SEXTREME,http://148.113.160.49:14175/$IPV4
 BABES TV,http://31.43.191.125:8080/restream/restream/34633$IPV4
 SLTV ADULT 1 HD,https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8$IPV4
 SLTV ADULT 2 HD,https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8$IPV4
@@ -240,6 +237,7 @@ SEXBOX 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.i
 SLTV PORNBOX 1,http://rtmp.tvpro-online.ru/hls/ch1.m3u8$IPV4
 Babes,http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8$IPV4
 Red Lips,http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8$IPV4
+BCU Charm HD,https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn$IPV4
 EroLuxe lesbians,http://live.redtraffic.xyz/lesbian.m3u8$IPV4
 EroLuxe russian,http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8$IPV4
 Eroxxx HD,http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8$IPV4
@@ -255,8 +253,9 @@ Blacked HD,http://live.redtraffic.xyz/cuckold.m3u8$IPV4
 Blowjob Red TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780$IPV4•线路1
 Blowjob Red TV,http://iptv.4666888.xyz/iptv2A.php?id=51$IPV4•线路2
 Blowjob Red TV,https://www.caonizuzong.cc.cd/4gtv?id=4gtv-ive059$IPV4•线路3
-Blowjob Red TV,http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路4
-Blowjob Red TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路5
+Blowjob Red TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV$IPV4•线路4
+Blowjob Red TV,http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路5
+Blowjob Red TV,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220914$IPV4•线路6
 Brunette Adult TV,http://live.mycamtv.com/brunette.m3u8$IPV4
 Club 17,https://t0.97img.com/a1001885/a.m3u8$IPV4
 Compilation Adult TV,http://cdn.adultiptv.net/compilation.m3u8$IPV4•线路1
@@ -323,7 +322,7 @@ RK TV,tvbus://4LHYkUCsA3vxw6Vi55GJ8PUrfDnmcAeLYsYG3Bg9zC3xnJQSnc$IPV4•线路1
 RK TV,tvbus://4LHYkUCsA3vxw6Vi4pqaZ8NTphk8BUdbViqRkH94Ee3zeXs8wf$IPV4•线路2
 Teen Red TV,https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8$IPV4
 Trans Angels,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221292$IPV4
-Vixen HD,http://89.187.177.137:8081/&FLIX/index.m3u8$IPV4
+Vixen HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn$IPV4
 Wicked,http://31.43.191.125:8080/restream/restream/34666$IPV4
 Xpanded TV,https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8$IPV4
 Fast Boyz,https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8$IPV4
@@ -361,6 +360,7 @@ Anal Only,http://live.redtraffic.xyz/anal.m3u8$IPV4•线路1
 Anal Only,http://cdn.adultiptv.net/anal.m3u8$IPV4•线路2
 Anal Only,http://live.mycamtv.com/anal.m3u8$IPV4•线路3
 Alex Legend,http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==$IPV4
+Tviksel Кино 18+ International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284$IPV4
 20152015,https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8$IPV4
 20212021,https://play92332.com/20220322/Sflw8j5Z/1802kb/hls/index.m3u8$IPV4
 31513151,https://v.imgstream2.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8$IPV4
@@ -405,6 +405,7 @@ angel,https://live.ottiptv.cc/yy/1382828770$IPV4
 血泪江湖,https://vip.ffzy-play6.com/20221019/84_a64c541f/index.m3u8$IPV4
 影子缠身,https://vod1.vodyutu.com/20220906/OkdEFJ7v/index.m3u8$IPV4
 赶尸艳谈,https://vod1.ttbfp2.com/20220316/QeLttooE/index.m3u8$IPV4
+冤女复仇,http://222.186.39.38:8000/435615/index.m3u8$IPV4
 倩女性花开,https://vod1.vodyutu.com/20220906/bNMYgzEH/index.m3u8$IPV4
 醉后的玫瑰,http://tv.ximix.us/yy/1382736798$IPV4•线路1
 醉后的玫瑰,http://footyun.top:35455/yy/1382736798$IPV4•线路2
@@ -509,17 +510,18 @@ heyzo1031,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8$IPV4
 5,https://u89ey.cdnedge.live/file/avple-images/hls/617c4cf1f0db60036839e944/playlist.m3u8$IPV4•线路9
 5,https://w9n76.cdnedge.live/file/avple-images/hls/61aea35902275f78f19d8f2b/playlist.m3u8$IPV4•线路10
 5,https://zo392.cdnedge.live/file/avple-images/hls/6193bcf11ab2cd467ae5359d/playlist.m3u8$IPV4•线路11
-6,https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路1
-6,https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路2
-6,https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路3
-6,https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路4
-6,https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路5
-6,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路6
-6,https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路7
-6,https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路8
-6,https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路9
-6,https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路10
-6,https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路11
+6,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$IPV4•线路1
+6,https://1xp60.cdnedge.live/file/avple-images/hls/61924c8189e9d231c0a0b0e4/playlist.m3u8$IPV4•线路2
+6,https://10j99.cdnedge.live/file/avple-images/hls/6183345d86d3713512d4ddac/playlist.m3u8$IPV4•线路3
+6,https://47b61.cdnedge.live/file/avple-images/hls/6095541abc2f671bb38f04a4/playlist.m3u8$IPV4•线路4
+6,https://8bb88.cdnedge.live/file/avple-images/hls/618e691df061a16282b2ee99/playlist.m3u8$IPV4•线路5
+6,https://d862cp.cdnedge.live/file/avple-images/hls/61a67c79a04cdb55de21fe92/playlist.m3u8$IPV4•线路6
+6,https://e2fa6.cdnedge.live/file/avple-images/hls/6177207dad20e84f6e46a0b2/playlist.m3u8$IPV4•线路7
+6,https://je40u.cdnedge.live/file/avple-images/hls/61a285a1c4f43c7ba5009c21/playlist.m3u8$IPV4•线路8
+6,https://q2cyl7.cdnedge.live/file/avple-images/hls/61924e2689e9d231c0a0b0e7/playlist.m3u8$IPV4•线路9
+6,https://u89ey.cdnedge.live/file/avple-images/hls/617c4d69f0db60036839e945/playlist.m3u8$IPV4•线路10
+6,https://w9n76.cdnedge.live/file/avple-images/hls/61b6cba11458462c26eadc88/playlist.m3u8$IPV4•线路11
+6,https://zo392.cdnedge.live/file/avple-images/hls/6197abd1f1d93a199d1cf176/playlist.m3u8$IPV4•线路12
 7,https://1xp60.cdnedge.live/file/avple-images/hls/6193ba5e1ab2cd467ae53598/playlist.m3u8$IPV4•线路1
 7,https://10j99.cdnedge.live/file/avple-images/hls/6186240126bdd144b598cbd2/playlist.m3u8$IPV4•线路2
 7,https://47b61.cdnedge.live/file/avple-images/hls/609ce87dee36da5bb9b5e4bd/playlist.m3u8$IPV4•线路3
@@ -554,6 +556,6 @@ heyzo1031,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8$IPV4
 9,https://u89ey.cdnedge.live/file/avple-images/hls/6183333186d3713512d4ddaa/playlist.m3u8$IPV4•线路9
 9,https://w9n76.cdnedge.live/file/avple-images/hls/61c6aafd668fd93b4250a326/playlist.m3u8$IPV4•线路10
 9,https://zo392.cdnedge.live/file/avple-images/hls/61accd33779a324ef83699a3/playlist.m3u8$IPV4•线路11
-And Natural 1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000caj6qnrc77u88k20m8jg&ratio=720p&line=0$IPV4
+And Natural 1,https://vd2.bdstatic.com/mda-qm341hq0h9s3e2w4/hd/cae_h264/1733280946675578974/mda-qm341hq0h9s3e2w4.mp4$IPV4
 MyCamTV Anal,https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8$IPV4
 
