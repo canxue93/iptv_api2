@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-14,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-15,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -141,7 +141,7 @@ XYPLUS,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6288/manifest.m3u8$IPV4�
 SuperOne,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6298/manifest.m3u8$IPV4•线路1
 SuperOne,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6298/manifest.m3u8$IPV4•线路2
 BLACKED,http://ott.server-iptv.live/715/manifest.m3u8?token=S76379DB41$IPV4
-NewSeneation,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8$IPV4
+NewSeneation,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/99458.ts$IPV4
 Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/2162/manifest.m3u8$IPV4
 午夜频道,#genre#
 Кино 18+ International,https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8$IPV4
