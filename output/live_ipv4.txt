@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-15,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-16,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -328,6 +328,7 @@ Xpanded TV,https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8$IPV4
 Fast Boyz,https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8$IPV4
 HOT,http://183.220.20.17:4321/rtp/239.10.0.151:5140$IPV4
 XY Mix HD,http://live.redtraffic.xyz/milf.m3u8$IPV4
+Eromania 4K,http://sultanios.alwaysdata.net/vavo.php?ID=3166915380$IPV4
 VF Cartoon 18+,https://server.zillarbarta.com/zbcatun/video.m3u8$IPV4
 DP Fanatics,https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8$IPV4
 XY Plus 1,https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8$IPV4
