@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-16,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-17,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -320,7 +320,6 @@ MILF Red TV,https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e
 RK Prime,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526$IPV4
 RK TV,tvbus://4LHYkUCsA3vxw6Vi55GJ8PUrfDnmcAeLYsYG3Bg9zC3xnJQSnc$IPV4•线路1
 RK TV,tvbus://4LHYkUCsA3vxw6Vi4pqaZ8NTphk8BUdbViqRkH94Ee3zeXs8wf$IPV4•线路2
-Teen Red TV,https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8$IPV4
 Trans Angels,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221292$IPV4
 Vixen HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn$IPV4
 Wicked,http://31.43.191.125:8080/restream/restream/34666$IPV4
@@ -394,7 +393,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4
 DDF,https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8$IPV4
 频道3,#genre#
-angel,https://live.ottiptv.cc/yy/1382828770$IPV4
+angel,http://91.218.50.136/live/brunoceccarelli/brunoceccarelli10/1271926.ts$IPV4
 港台情色,#genre#
 春宫豪放女,https://vod1.vodyutu.com/20221015/LzgybwAo/index.m3u8$IPV4•线路1
 春宫豪放女,https://vod1.vodyutu.com/20221009/LFcDSgj4/index.m3u8$IPV4•线路2
@@ -410,7 +409,6 @@ angel,https://live.ottiptv.cc/yy/1382828770$IPV4
 倩女性花开,https://vod1.vodyutu.com/20220906/bNMYgzEH/index.m3u8$IPV4
 醉后的玫瑰,http://tv.ximix.us/yy/1382736798$IPV4•线路1
 醉后的玫瑰,http://footyun.top:35455/yy/1382736798$IPV4•线路2
-醉后的玫瑰,https://live.ottiptv.cc/yy/1382736798$IPV4•线路3
 红楼春梦,http://alist.xicp.fun:35455/yy/1382745084$IPV4•线路1
 红楼春梦,https://live.metshop.top/yy/1382745084$IPV4•线路2
 红楼春梦,https://lunbo.freetv.top/yy/1382745084$IPV4•线路3
