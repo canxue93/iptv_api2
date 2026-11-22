@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-22,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-23,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -213,7 +213,7 @@ FRANCESEX TV HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/169717.ts$IPV4
 NIGHT TV HD,tvbus://3ii8oMcMAuGfgSU2RY7LgNAuLQqoPkGAzy9rn9juBGb4n8Jtvp$IPV4•线路1
 NIGHT TV HD,tvbus://3ii8oMcMAuGfgSU2RrR3KJigKs9X3pia8YbHeiPgB2xb7b4MsR$IPV4•线路2
 REALITY KINGS TV,http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4
-DUSK TV,http://31.146.5.178:8087/play/a00a/index.m3u8$IPV4
+DUSK TV,https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8$IPV4
 SUPERONE,https://vip2.slbfsl.com/20230323/t1rPcIXP/index.m3u8$IPV4
 OLDTIMER HD,tvbus://3Z9hcpp1W7yCbtrgqzoCquUgwwBNrJ4PjGHDKHC7R327Lcah48$IPV4•线路1
 OLDTIMER HD,tvbus://3Z9hcpp1W7yCbtrgr72dKXVGry3e1ex13GFo32ywdQKeA8g2mp$IPV4•线路2
@@ -389,8 +389,7 @@ Blowjob,http://live.redtraffic.xyz/blowjob.m3u8$IPV4•线路2
 Latina HD,http://live.redtraffic.xyz/latina.m3u8$IPV4
 POV HD,http://live.redtraffic.xyz/pov.m3u8$IPV4
 BABES,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$IPV4
-supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4•线路1
-supertv,https://mursor.ottiptv.cc/huya/30080169$IPV4•线路2
+supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 频道2,#genre#
 LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4
