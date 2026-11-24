@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-23,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-24,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -198,7 +198,7 @@ PLAYBOY TV,http://mtayeh.ottb.xyz/live/774710333494/659822672281/59169.ts$IPV4�
 PLAYBOY TV,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269917.ts$IPV4•线路2
 SIRINA 1 FHD,tvbus://3YpNaHBYR8Cwd4Eir8Q6WnTdgVAodG3L58b7EhhPLcvH3VpyJM$IPV4•线路1
 SIRINA 1 FHD,tvbus://3YpNaHBYR8Cwd4EirEfv5FuVAEHSgfYQAHYyWytRzK1LjgH18d$IPV4•线路2
-SIRINA 2 FHD,https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8$IPV4
+SIRINA 2 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71507.ts$IPV4
 SIRINA 3 FHD,tvbus://3FEVKq9g5BEwqYzib19hsMHk1nfLE6d4MD8HNNAuUSssrf7gPe$IPV4•线路1
 SIRINA 3 FHD,tvbus://3FEVKq9g5BEwqYzibFYmocseXebUJxEnacPgnVUZwX9tyFDRvh$IPV4•线路2
 SUGARBABES FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1382478.ts$IPV4
@@ -270,7 +270,6 @@ Gangbang Adult TV,http://play.iptvxxx.net/gangbang.m3u8$IPV4•线路3
 Gay Adult TV,https://streamunoapp.com:3983/live/larutatvlive.m3u8$IPV4
 Hard X,http://live.redtraffic.xyz/hardcore.m3u8$IPV4
 Hardcore Red TV,https://tv.huachotv.com/stream.m3u8$IPV4
-Holed,https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8$IPV4
 Latina Red TV,https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8$IPV4
 Lust Cinema,https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8$IPV4
 MetArt HD,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f$IPV4
@@ -322,7 +321,7 @@ MILF Red TV,https://mp.panelchs.com:1936/8044/8044/playlist.m3u8$IPV4
 RK Prime,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526$IPV4
 RK TV,tvbus://4LHYkUCsA3vxw6Vi55GJ8PUrfDnmcAeLYsYG3Bg9zC3xnJQSnc$IPV4•线路1
 RK TV,tvbus://4LHYkUCsA3vxw6Vi4pqaZ8NTphk8BUdbViqRkH94Ee3zeXs8wf$IPV4•线路2
-Teen Red TV,https://ncdn.telewebion.ir/tehran/live/playlist.m3u8$IPV4
+Teen Red TV,https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8$IPV4
 Trans Angels,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221292$IPV4
 Vixen HD,http://89.187.177.137:8081/&FLIX/index.m3u8$IPV4
 Wicked,http://31.43.191.125:8080/restream/restream/34666$IPV4
@@ -345,7 +344,7 @@ BBC Pie,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc
 BBC Pie,http://tv.cloudcdn.me:80/live.ts?channelId=133067&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4•线路2
 BBC Pie,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8$IPV4•线路3
 BBC Pie,ttps://jmp2.uk/stvp-US4000033L$IPV4•线路4
-Bang POV,https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8$IPV4
+Bang POV,https://www.btv.ro/hls/banat-tv.m3u8$IPV4
 LATINA TV,https://live.mtna.tv/hls/mtna/mtna.m3u8$IPV4
 MILF TV,https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8$IPV4
 PORNSTAR TV,tvbus://4JnT5GUY9oZ3J1C34n4XWUsexHQkN4TVP2kEGtyvMGo3a1t1xU$IPV4•线路1
@@ -389,7 +388,8 @@ Blowjob,http://live.redtraffic.xyz/blowjob.m3u8$IPV4•线路2
 Latina HD,http://live.redtraffic.xyz/latina.m3u8$IPV4
 POV HD,http://live.redtraffic.xyz/pov.m3u8$IPV4
 BABES,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$IPV4
-supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4
+supertv,http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4•线路1
+supertv,https://mursor.ottiptv.cc/huya/30080169$IPV4•线路2
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 频道2,#genre#
 LEGAL,http://ott.server-iptv.live/716/manifest.m3u8?token=S76379DB41$IPV4

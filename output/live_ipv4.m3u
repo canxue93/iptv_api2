@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-11-23" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-11-23
+#EXTINF:-1 tvg-id="1" tvg-name="2026-11-24" tvg-logo="https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Chao.png" group-title="更新日期",2026-11-24
 https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="METART" tvg-logo="./pic/logosMETART.png" group-title="CR频道",METART
 http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
@@ -390,7 +390,7 @@ tvbus://3YpNaHBYR8Cwd4Eir8Q6WnTdgVAodG3L58b7EhhPLcvH3VpyJM$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="SIRINA 1 FHD" tvg-logo="./pic/logosSIRINA 1 FHD.png" group-title="俄罗斯",SIRINA 1 FHD
 tvbus://3YpNaHBYR8Cwd4EirEfv5FuVAEHSgfYQAHYyWytRzK1LjgH18d$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="SIRINA 2 FHD" tvg-logo="./pic/logosSIRINA 2 FHD.png" group-title="俄罗斯",SIRINA 2 FHD
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8$IPV4
+http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71507.ts$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="SIRINA 3 FHD" tvg-logo="./pic/logosSIRINA 3 FHD.png" group-title="俄罗斯",SIRINA 3 FHD
 tvbus://3FEVKq9g5BEwqYzib19hsMHk1nfLE6d4MD8HNNAuUSssrf7gPe$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="SIRINA 3 FHD" tvg-logo="./pic/logosSIRINA 3 FHD.png" group-title="俄罗斯",SIRINA 3 FHD
@@ -533,8 +533,6 @@ https://streamunoapp.com:3983/live/larutatvlive.m3u8$IPV4
 http://live.redtraffic.xyz/hardcore.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Hardcore Red TV" tvg-logo="./pic/logosHardcore Red TV.png" group-title="俄罗斯",Hardcore Red TV
 https://tv.huachotv.com/stream.m3u8$IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="Holed" tvg-logo="./pic/logosHoled.png" group-title="俄罗斯",Holed
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Latina Red TV" tvg-logo="./pic/logosLatina Red TV.png" group-title="俄罗斯",Latina Red TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Lust Cinema" tvg-logo="./pic/logosLust Cinema.png" group-title="俄罗斯",Lust Cinema
@@ -638,7 +636,7 @@ tvbus://4LHYkUCsA3vxw6Vi55GJ8PUrfDnmcAeLYsYG3Bg9zC3xnJQSnc$IPV4•线路1
 #EXTINF:-1 tvg-id="2" tvg-name="RK TV" tvg-logo="./pic/logosRK TV.png" group-title="俄罗斯",RK TV
 tvbus://4LHYkUCsA3vxw6Vi4pqaZ8NTphk8BUdbViqRkH94Ee3zeXs8wf$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="Teen Red TV" tvg-logo="./pic/logosTeen Red TV.png" group-title="俄罗斯",Teen Red TV
-https://ncdn.telewebion.ir/tehran/live/playlist.m3u8$IPV4
+https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Trans Angels" tvg-logo="./pic/logosTrans Angels.png" group-title="俄罗斯",Trans Angels
 http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221292$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="Vixen HD" tvg-logo="./pic/logosVixen HD.png" group-title="俄罗斯",Vixen HD
@@ -684,7 +682,7 @@ https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8$IPV4•线路3
 #EXTINF:-1 tvg-id="4" tvg-name="BBC Pie" tvg-logo="./pic/logosBBC Pie.png" group-title="俄罗斯",BBC Pie
 ttps://jmp2.uk/stvp-US4000033L$IPV4•线路4
 #EXTINF:-1 tvg-id="1" tvg-name="Bang POV" tvg-logo="./pic/logosBang POV.png" group-title="俄罗斯",Bang POV
-https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8$IPV4
+https://www.btv.ro/hls/banat-tv.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="LATINA TV" tvg-logo="./pic/logosLATINA TV.png" group-title="俄罗斯",LATINA TV
 https://live.mtna.tv/hls/mtna/mtna.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="MILF TV" tvg-logo="./pic/logosMILF TV.png" group-title="俄罗斯",MILF TV
@@ -770,7 +768,9 @@ http://live.redtraffic.xyz/pov.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="BABES" tvg-logo="./pic/logosBABES.png" group-title="频道1",BABES
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="supertv" tvg-logo="./pic/logossupertv.png" group-title="频道1",supertv
-http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4
+http://iptv.jxpan.vip:18888/aio/huya/30080169$IPV4•线路1
+#EXTINF:-1 tvg-id="2" tvg-name="supertv" tvg-logo="./pic/logossupertv.png" group-title="频道1",supertv
+https://mursor.ottiptv.cc/huya/30080169$IPV4•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="VISIT-X" tvg-logo="./pic/logosVISIT-X.png" group-title="频道1",VISIT-X
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="LEGAL" tvg-logo="./pic/logosLEGAL.png" group-title="频道2",LEGAL
