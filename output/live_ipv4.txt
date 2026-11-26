@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-11-25,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-11-26,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 CR频道,#genre#
 METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8$IPV4•线路1
 METART,http://d029dcec.kazmazpaz.ru/iptv/P6V9E2UWSH32FK/6233/manifest.m3u8$IPV4•线路2
@@ -215,6 +215,7 @@ NIGHT TV HD,tvbus://3ii8oMcMAuGfgSU2RrR3KJigKs9X3pia8YbHeiPgB2xb7b4MsR$IPV4•�
 REALITY KINGS TV,http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6$IPV4
 DUSK TV,https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8$IPV4
 SUPERONE,https://vip2.slbfsl.com/20230323/t1rPcIXP/index.m3u8$IPV4
+RUSSIAN,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/161350$IPV4
 OLDTIMER HD,tvbus://3Z9hcpp1W7yCbtrgqzoCquUgwwBNrJ4PjGHDKHC7R327Lcah48$IPV4•线路1
 OLDTIMER HD,tvbus://3Z9hcpp1W7yCbtrgr72dKXVGry3e1ex13GFo32ywdQKeA8g2mp$IPV4•线路2
 MILF 2,http://live.mycamtv.com/milf.m3u8$IPV4
@@ -351,9 +352,6 @@ PORNSTAR TV,tvbus://4JnT5GUY9oZ3J1C34n4XWUsexHQkN4TVP2kEGtyvMGo3a1t1xU$IPV4•�
 PORNSTAR TV,tvbus://4JnT5GUY9oZ3J1C357Di9JXUcouJeYZVnzcPtiQtm9B9cKqmsP$IPV4•线路2
 ROUGH TV,tvbus://3YcHaGN1zGuXVDQBLZUEXJzMoVNj9wddaLg3o8KDcEpWaBtDZH$IPV4•线路1
 ROUGH TV,tvbus://3YcHaGN1zGuXVDQBLfhAjat64sEycGVnwe6Qg33fBMDi6o996Q$IPV4•线路2
-RUSSIAN TV,http://162.212.178.70:4842/bysid/803,239.108.3.35:49152$IPV4•线路1
-RUSSIAN TV,http://162.212.178.69:4442/bysid/803,236.4.3.35:49152$IPV4•线路2
-RUSSIAN TV,http://162.212.178.69:4042/bysid/803,236.0.3.35:49152$IPV4•线路3
 Ass Parade,https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8$IPV4
 THREESOME TV,https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8$IPV4
 Anal Time,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000co6atujc77u007hc7bs0&ratio=720p&line=0$IPV4
